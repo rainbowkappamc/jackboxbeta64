@@ -1,4 +1,4 @@
-# jackboxbeta64
+# The Jackbox Party Pack 6 - TMP2 Beta64 Mod
 A Jackbox 6 - TMP2 Mod that adds trivia around Beta64's Community.
 
 BETA64 MOD for https://www.twitch.tv/beta64 , JJDB210 - https://www.twitch.tv/jjdb210 , and ~~Scott The Woz~~.
