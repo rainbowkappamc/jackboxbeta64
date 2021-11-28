@@ -12,7 +12,7 @@ Features :
 - Spongebob in Tattoos Minigame
 - ? Cups in Chalices
 - New lobby character variants 
-- 3 new characters to play as
+- 4 new characters to play as
 - New lobby screens for Christmas and Beta64 context
 - JJDB210 and Beta64 hats and other new gifts in "Gifts Minigame"
 - New End-Credits Changes (New Outro Image)
@@ -21,6 +21,5 @@ Features :
 - New Logo for TMP2 Opening
 - New Intros for Pack and TMP2
 - New Graphics for Party Pack Menu
-- 1 New Character
 - New Final Round Graphics
 - New Phone Minigame Graphics
