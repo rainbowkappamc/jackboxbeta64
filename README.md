@@ -21,3 +21,6 @@ Features :
 - New Logo for TMP2 Opening
 - New Intros for Pack and TMP2
 - New Graphics for Party Pack Menu
+- 1 New Character
+- New Final Round Graphics
+- New Phone Minigame Graphics
