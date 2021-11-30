@@ -6,6 +6,7 @@ BETA64 MOD for https://www.twitch.tv/beta64 , JJDB210 - https://www.twitch.tv/jj
 Created By RainbowKappa and Drago2143.
 
 Features :
+
 (TMP2)
 - Beta64 filter for content (filters Beta64-centric questions)
 - The "Scott The Woz" Room.
@@ -24,6 +25,7 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
+
 (JOKE BOAT)
 - 2 new characters
 - custom prompts + vanilla prompts
