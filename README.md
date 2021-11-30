@@ -7,7 +7,6 @@ Created By RainbowKappa and Drago2143.
 
 Features :
 
-(TMP2)
 - Beta64 filter for content (filters Beta64-centric questions)
 - The "Scott The Woz" Room.
 - New Trivia (64 Questions, 16 Final Round, 6 Mind Meld)
@@ -25,8 +24,3 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
-
-(JOKE BOAT)
-- 2 new characters
-- custom prompts + vanilla prompts
-- Misc. Changes in Graphics and Other areas
