@@ -24,3 +24,4 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
+- Other Jackbox Mods Soon.
