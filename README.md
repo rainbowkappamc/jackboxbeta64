@@ -13,7 +13,7 @@ Features :
 - Spongebob in Tattoos Minigame
 - ? Cups in Chalices
 - New lobby character variants 
-- 4 new characters to play as
+- New TMP2 and Joke Boat characters to play as
 - New lobby screens for Christmas and Beta64 context
 - JJDB210 and Beta64 hats and other new gifts in "Gifts Minigame"
 - New End-Credits Changes (New Outro Image)
@@ -24,4 +24,4 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
-- Other Jackbox Mods Soon.
+- New Jokes,Logs, and Etc. for Joke Boat Mod
