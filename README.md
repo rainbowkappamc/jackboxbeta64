@@ -24,4 +24,5 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
+- New Dictation Content
 - New Jokes,Logs, and Etc. for Joke Boat Mod
