@@ -9,9 +9,9 @@ Features :
 
 - Beta64 filter for content (filters Beta64-centric questions)
 - The "Scott The Woz" Room.
-- New Trivia (64 Questions, 16 Final Round, 6 Mind Meld)
+- New Trivia (133 Questions, 36 Final Round, 9 Mind Meld)
 - Spongebob in Tattoos Minigame
-- ? Cups in Chalices
+- Custom Cups in Chalices
 - New lobby character variants 
 - New TMP2 and Joke Boat characters to play as
 - New lobby screens for Christmas and Beta64 context
@@ -24,5 +24,4 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
-- New Dictation Content
 - New Jokes,Logs, and Etc. for Joke Boat Mod
