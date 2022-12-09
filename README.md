@@ -10,7 +10,7 @@ Features :
 - Beta64 filter for content (filters Beta64-centric questions)
 - The "Scott The Woz" Room.
 - New Trivia (133 Questions, 36 Final Round, 9 Mind Meld)
-- Spongebob in Tattoos Minigame
+- Cheese Nips Box in Tattoos Minigame
 - Custom Cups in Chalices
 - New lobby character variants 
 - New TMP2 and Joke Boat characters to play as
