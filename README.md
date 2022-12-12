@@ -1,5 +1,7 @@
 # The Beta64 Mod for The JBPP6
 A Jackbox 6 Mod that adds trivia around Beta64's Community.
+NOTICE :
+Future releases will be prioritized for kappabox.live/download over github 
 
 BETA64 MOD for https://www.twitch.tv/beta64 , JJDB210 - https://www.twitch.tv/jjdb210 , and ~~Scott The Woz~~.
 
