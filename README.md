@@ -10,9 +10,9 @@ Created By RainbowKappa and Drago2143.
 
 Features :
 
-- Beta64 filter for content (filters Beta64-centric questions)
+- Mod filters for content (filters Beta64,JJDB210, and Scott The Woz-centric questions)
 - The "Scott The Woz" Room.
-- New Trivia (133 Questions, 36 Final Round, 9 Mind Meld)
+- New Trivia (150 Questions, 36 Final Round, 9 Mind Meld)
 - Cheese Nips Box in Tattoos Minigame
 - Custom Cups in Chalices
 - New lobby character variants 
@@ -27,4 +27,8 @@ Features :
 - New Graphics for Party Pack Menu
 - New Final Round Graphics
 - New Phone Minigame Graphics
+- New Dictation Prompts
+- New Mirror Prompts
+- New Question Types : Video/Audio Based, Player Based
 - New Jokes,Logs, and Etc. for Joke Boat Mod
+- Custom Site / Device graphics via KappaBox.LIVE! (Custom Chalices work on Jackbox.tv)
