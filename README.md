@@ -12,7 +12,7 @@ Features :
 
 - Mod filters for content (filters Beta64,JJDB210, and Scott The Woz-centric questions)
 - The "Scott The Woz" Room.
-- New Trivia (150 Questions, 36 Final Round, 9 Mind Meld)
+- New Trivia (150 Questions, 40 Final Round, 11 Mind Meld, 10 Quiplash, 20 "Special Scenario" Questions)
 - Cheese Nips Box in Tattoos Minigame
 - Custom Cups in Chalices
 - New lobby character variants 
