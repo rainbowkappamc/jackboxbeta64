@@ -28,4 +28,4 @@ Features :
 - New Mirror Prompts
 - New Question Types : Video/Audio Based, Player Based
 - New Jokes,Logs, and Etc. for Joke Boat Mod
-- Custom Site / Device graphics via KappaBox.LIVE (site is down currently)! (Custom Chalices work on Jackbox.tv)
+- Custom Site / Device graphics via KappaBox.LIVE! (Custom Chalices work on Jackbox.tv)
