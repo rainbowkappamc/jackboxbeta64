@@ -3,7 +3,7 @@ A Jackbox 6 Mod that adds trivia around Beta64's Community.
 
 BETA64 MOD for https://www.twitch.tv/beta64 , JJDB210 - https://www.twitch.tv/jjdb210 , and ~~Scott The Woz~~.
 
-Created By RainbowKappa and Drago2143.
+Created By RainbowKappa With Help from SMBFan116, Drago2143, and Others.
 
 Features :
 
