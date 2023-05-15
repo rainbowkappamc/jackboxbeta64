@@ -1,1 +1,0 @@
-This file is too big to store on github's repo so use latest dev prerelease/normal release or use vanilla. should work with mods still but not ideal. :(
