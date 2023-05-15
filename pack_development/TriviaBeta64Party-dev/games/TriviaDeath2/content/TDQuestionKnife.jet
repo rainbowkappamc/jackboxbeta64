@@ -1,0 +1,252 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40000,
+      "text": "Where did Charles Martinet first portray Mario?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Mario Teaches Typing",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mario in Real Time",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Mario's Game Gallery",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Mario 64",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40001,
+      "text": "I'll know you're not the killer if you can tell me what was NOT one of the Toppins in Pizza Tower.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "sausage",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "cheese",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "pepperoni",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "mushroom",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40002,
+      "text": "What instrument did the first boss in Donkey Kong Country Returns represent?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "kalimba",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "marimba",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "xylophone",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "vibraphone",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40003,
+      "text": "Which of these games features microtransaction?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Rhythm Heaven Megamix",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Rusty's Real Deal Baseball",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Tomodachi Life",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chibi-Robo Clean Sweep",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40004,
+      "text": "What happens if you give your Mii the worst ever food in Tomodachi Life?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "They faint",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "They melt",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "They launch into space",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Their head falls off",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40005,
+      "text": "Which of these hosts from You Don't Know Jack is a real person?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cookie Masterson",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Quizmaster Jack",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Masatoshi Hamada",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Nate Shapiro",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40006,
+      "text": "Who is NOT Texan?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "SMBFan",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Carly",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dizmond",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "RainbowKappa",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 40007,
+      "text": "Which Sonic game's conflict features a tear in the space time continuum?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Sonic Unleashed",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Frontiers",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Heroes",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Rush",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

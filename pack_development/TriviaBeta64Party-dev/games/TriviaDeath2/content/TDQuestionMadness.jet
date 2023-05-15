@@ -1,0 +1,376 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70000,
+      "text": "What is Beta64's first name?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Scott",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Anthony",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nathaniel",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70001,
+      "text": "What are the red, spherical obstacles in Wipeout?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Red Bouncy",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sucker Punch",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Big Balls",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Door Knock",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70002,
+      "text": "How does Kevin like his meat?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Raw",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Medium well",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Overcooked",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Well done",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70003,
+      "text": "What was Beta64's first video?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Super Mario World",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Smash Bros.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Mario 64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Luigi's Mansion",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70004,
+      "text": "What is Luigi's Mansion?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A common Sega game everyone seems to know about.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A rare Nintendo game no one seems to know about.",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A lost Microsoft game some people seem to know about.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "An uncommon Sony game that most people know about.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70005,
+      "text": "What cheese snack does Andrew love?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheez-It",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Better Cheddars",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Curls",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70006,
+      "text": "What is the color of Hatsune Miku?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Blue",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Green",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Yellow",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70007,
+      "text": "Which Beta64 fangame was created first?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "RPG 64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Truly Bizzare",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Raw Meat: The Game",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70008,
+      "text": "Which of these characters is a robot?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "E-123 Omega",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Shadow the Hedgehog",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Rouge the Bat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Blaze the Cat",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70009,
+      "text": "What is Andrew's twitch called?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64's Secret Channel",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "BetaAndChill",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70010,
+      "text": "Who is Beta64's bot?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "BotusBot64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot65",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot66",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot64",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 70011,
+      "text": "Who's not a bot?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Streamelements",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "PocketNooks",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Nightbot",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

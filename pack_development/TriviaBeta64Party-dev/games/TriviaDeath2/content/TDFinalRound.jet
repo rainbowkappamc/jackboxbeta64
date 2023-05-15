@@ -1,0 +1,3941 @@
+{
+  "content": [
+    {
+      "x": false,
+      "id": 1001,
+      "text": "Game Betas Beta64 has covered",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "LittleBigPlanet"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Professor Layton and the Curious Village"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Diddy Kong Racing"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Project Giant Robot"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Donkey Kong Country: Tropical Freeze"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wii Sports"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Donkey Kong Country"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Star Fox 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sonic Adventure"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sonic Adventure 2"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Luigi's Mansion: Dark Moon"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Super Mario World"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Star Fox Zero"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Tennis"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cuphead"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "A Hat in Time"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Shovel Knight"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sonic Advance"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Donkey Kong Country Returns"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Wii Sports Resort"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheese Nips Rescue"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Wii Music"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1002,
+      "text": "Cheese Nip Rescue Entries",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue 2"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue 3"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue 1997"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue: Back to the Past"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue Demo"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "CNR 1 Speedrunning Update"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips Rescue 2 Beta"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Beta64 goes to Costco"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Beta64 goes on Wipeout"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheese Nips Rescue: It's About Time"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Beta64 goes to Kroger"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheese Nips Rescue 3 Demo"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheese Nips Rescue: RPG 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheese Nips Racing"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "10 Minute Wait"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1003,
+      "text": "Platforms for the Original BFBB",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Microsoft Xbox"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sony Playstation 2"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nintendo Gamecube"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo DS"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo Wii"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Microsoft Xbox 360"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo Wii U"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo Switch"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo 3DS"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Ubuntu Linux"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sony Playstation 1"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sony Playstation 3"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Microsoft Xbox One"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Microsoft Xbox Series X / S"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1004,
+      "text": "Sites Beta64 has streamed on",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Youtube"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Twitch.tv"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Justin.tv"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "YouNow"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "101 The Fox"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Steam.tv"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Periscope"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Discord Stages"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Beam"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mixer"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Discord Voice Chat"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1005,
+      "text": "Cheese Nips Rescue Stages",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Void"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Razor Forest"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Contrasting Peaks"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Turbulent Desert"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Downtown"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cursed Manor"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cold Mountain"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The City"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Magma Canyon"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Aquatic Current"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tiny-Huge Golf Course"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Molten Crater"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Abandoned Mansion"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dot's Castle"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Insanity Dimension"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Rainbow Road"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Creepy Cruise"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Dot's Fortress"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Snowfire Cliffs"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Fourth Night"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1006,
+      "text": "Beta64 Stream Avatars",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "littlewalker"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_mario"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_luigi"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_bowser"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_bowser_jr"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_peach"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_waluigi"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_yoshi_beta"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb_mario_weird"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smb3_mario_big"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smw_mario_big"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smw_yoshi"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "smw_bomb"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "pm_mario"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "pm_bobby"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Smash_Waluigi"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "granddad"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "beta64_8bit"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "undertale_sans"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "3dmm_kevin"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "chez"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "nips"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "miyamoto_man"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "3dmm_ozwald"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "smb_fan"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1007,
+      "text": "Roles in the Beta64 Discord",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Beta Guy"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Twitch Subs"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Admins"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mods"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Robos"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Chatbot64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "GiveawayBot"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Logger"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Carl-bot"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nitro Booster"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Platinum Fans"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Ultra Fans"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Super Fans"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Follower"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "CheezeNip Hater"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nips"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Twitch Subscriber: Tier 1"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Twitch Subscriber: Tier 2"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Twitch Subscriber: Tier 3"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Good"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Good To Go"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "TACO SQUAD"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "bad"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "NotifyServerEvents"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "NotifyBeta64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Diamond Fans"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Golden Fans"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Fox Gang"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "faketreon"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "ULTIMATE FANS"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Patron"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tier 2 Patron"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "I Had The Sprite Cranberry"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "I Hate The Sprite Cranberry"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Andrew"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "made beet sad"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1008,
+      "text": "Gaming YouTubers Andrew has collaborated with",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "A+Start"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Scott the Woz"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "DidYouKnowGaming?"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Arlo"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Vinesauce"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nathaniel Bandy"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "TetraBitGaming"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendrew"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "AngryVideoGameNerd"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Jerma985"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1009,
+      "text": "Beta64 3DMM Movies",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Raw Meat"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Trick or Meat"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wipeout of Death"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Raw Meat 2"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cooked Meat"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Schrodinger's Carl 2"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Schrodinger's Carl "
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The DMV"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The FBI"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The DMV 2 : Hexen Gets Arrested"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Rawest of Meats"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Raw Meat : The VHS Collection"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "KEVIN : A Raw Meat Documentary"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "What the Frack??"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Raw Meat Man"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Raw Meat: Paramount+ Reboot"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1010,
+      "text": "Nintendo Land Attractions",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Animal Crossing: Sweet Day"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Balloon Trip Breeze"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Donkey Kong's Crash Course"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Legend of Zelda: Battle Quest"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Luigi's Ghost Mansion"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Chase"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Metroid Blast"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pikmin Adventure"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Takamaru's Ninja Castle"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Captain Falcon's Twister Race"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Yoshi's Fruit Cart"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Octopus Dance"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pokemon Dash"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mii Olympics"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Kart: Koopa’s Challenge"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Yoshi’s Adventure"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Bowser, Jr. Shadow Showdown"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Note Block Rock"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Goomba Crazy Crank"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Koopa Troopa POWer Punch"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Piranha Plant Nap Mishap"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Bob-omb Kaboom"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Thwomp Panel Panic"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1011,
+      "text": "Beta64 patrons",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "ScottNoLastName"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "ok.penny"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "jjdb210"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "RainbowKappa"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "carly"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Dizmond"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "LLAMAZ"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "SMBFan116"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cashspoon"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "GlacialPhoenix"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "WickBRSTM"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "memeguuy"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "PikaPikachuPHD"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "SugarGators"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "HexenHell"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "megazeroex3"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "DaltPKMN"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "thechaosyoshi"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Chandy"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Anthony_B_Russo10"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1012,
+      "text": "Spelt correctly",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "multiplication"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "corresponding"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "circumstance"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "intelligence"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "failure"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "coicidence"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "pronounciation"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "seperate"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "unnecesary"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "alot"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "definitely"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "reffered"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "excavater"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1013,
+      "text": "Nintendo Mobile Games",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "New Super Mario Bros. Go"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Wii Sports Mobile"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Miitomo"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Super Mario Run"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Kart 7.5"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Fire Emblem Heroes"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Kart Tour"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pikmin Bloom"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dr. Mario World"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dragalia Lost"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Animal Crossing: Pocket Camp"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo Masters"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Virtual Console Mobile Hub"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1015,
+      "text": "Places JJDB210 has streamed from",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "JJDB's House"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dance Studio"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Disney World"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Parking Lot"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Disney Land"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Beta's House"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Universal Studios"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Walmart"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "McDonalds"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Costco"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Burger King"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Taco Bell"
+        }
+      ],
+      "us": true
+    },
+    {
+      "x": false,
+      "id": 1017,
+      "text": "Games with Mii Characters",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pilotwings Resort"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Artist: Paint Studio"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nintendo Land"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Kart Double Dash"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tomodachi Collection"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wii Sports"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wii no Ma / Wii Room"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "SimCity Creator"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Miitomo"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "1 2 Switch"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Kart 7"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pokemon Ranch"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Detective Pikachu"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tomodachi Life"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Sports Mix"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Monopoly Streets"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Animal Crossing Wild World"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Animal Crossing New Horizons"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Flipnote Studio 3D"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "AKB48+Me"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wii Chess"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Personal Training: Walking"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1018,
+      "text": "Nintendo 64DD Released Disks",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Artist: Paint Studio"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Doshin the Giant"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Randnet Disk"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Artist: Talent Studio"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "SimCity 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Japan Pro Golf Tour 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Doshin the Giant: Tinkling Toddler Liberation Front! Assemble!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Artist: Communication Kit"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mario Artist: Polygon Studio"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Artist: Game Maker"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Artist: Graphical Message Maker"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mother 3"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pokemon Snap DD"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "DD Sequencer"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Artist: Sound Maker"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Dōbutsu no Mori (Animal Crossing 64)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cabbage"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Desert Island: No Man's Island"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Dezaemon 3D Expansion Kit"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Diablo"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Super Mario RPG 2 / Super Mario Adventure"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "EarthBound 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario no Photopi"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mario Artist: Video Jockey Maker"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1020,
+      "text": "Cheese Nips Rescue 3 Developers",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "DizmondTV"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cashspoon"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "GooseWithGoose "
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Krusty Towers"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "SuperMarioBrosFan116 "
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "JJDB210"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Beta64"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Scott The Woz"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Chiptuner"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1021,
+      "text": "Sports Wii & Knuckles features...",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Crashing Button"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Floating Mario Head "
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Piss Bunker"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Void Boxing"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Uncle Al"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Wii Sports Airplane"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo Sporch Game for the Switch"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "ContendoYT"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Carl Wheezer?"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Grub Hub"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Raw Meat Man"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Dizmond"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sonic in Minecraft"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "SpongeBob in Minecraft"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Air Zonk"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1022,
+      "text": "Beta64 Special Streams ",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Walking Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Crappy Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Crappy Creepypastas"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Wii Play Modding"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "CRT Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The BEET Awards 2021"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Brain Hurt Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Winter Cooking Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Trick or Treat!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pumpkin Carving Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Real Life Marble Racing"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Luigi's Casino Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Calling Nabisco #SaveCheeseNips!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Baking Cheese Nips with Chef Andrew"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Vtiuber Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Maid Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mod Take-Over Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Movie Night Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Smash Bros. Launch Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Wii Series Marathon"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Live @ PAX East Stream 2019"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The BEET Awards 2020"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The BEET Awards 2022"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The BETA Awards 2021"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The SFSAs 2021"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The SFSAs 2020"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Bathtub Stream"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1023,
+      "text": "Raw Meat Characters",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Timothy"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Ozwald"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Boxing Dude"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Kevin"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Stacy"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Uncle Al"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Aunt Mia"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Calvin"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "John"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sir Chattington"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cashspoon the spoon of cash"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Santa Claus"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Scott The Wozzy"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Reggie"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Jake"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Oswald"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Johnny"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Semore"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Peter"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Raw Meat Man"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1024,
+      "text": "Hatsune Miku Songs",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "What Do You Mean?!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "World is Mine"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Let's Go Away"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Ievan Polkka"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Megamix Encore"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Last Surprise"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Japanese National Anthem"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Miku's Melody"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Your Diva"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sweet Drops After the Rain"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Song of Life"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Electric Angel"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "VOC@LOID in Love"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sky High"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Believe in Myself"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Clone"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "GALAXY of DREAMS"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Live & Learn!!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Get Real"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Video Killed The Radio Star"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1025,
+      "text": "Channels in The Beta64 Discord",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#ultra-fans"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#patron_park"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#giveaway_room"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Ultra_Fans_Voice"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Patron_Plaza"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#Sub_Voice"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Weeb_Island"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#Game_Discussion"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#spoilers_and_leaks "
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#Nintendo-Directs"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#Streaming_Room"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#General_Voice"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Submit_for_Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Memes_for_Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#Notes_for_Beta"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Twitch_Clips"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Live"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Gaming_Newz"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#New_Episode_When"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#Tweets"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#VIP_Voice"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "#Game_Night"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#The_Starboard"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "#The_Pin_Palace"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1026,
+      "text": "Nabisco brands",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Oreo"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wheat Thins"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Chips Ahoy!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nutter Butter"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Goldfish"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Lays Potato Chips"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Reese's Peanut Butter Cups"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheez-It"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Twix"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "In A Biskit"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Belvita"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Premium Saltines"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Teddy Grahams"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Lorna Doone"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kit Kat"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Choco Taco"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Klondike bar"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pringles"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pop-Tarts"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1027,
+      "text": "Beta64 Twitch emotes",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64DKPog"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64HYPE"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64Stare"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64Hey"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64Eye"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64BOOST"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64Kevin"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64Sus"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64LUL"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64Help"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64FriedChez"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "BetaRage"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64Oh"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Anguish"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "TotallyRigged"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64HAHA"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64Scream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64ChickenOhNo"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64Oops"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "b64Raid"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1028,
+      "text": "Beta64 Discord emotes",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "LeafFox"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Untitled"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "bEtAscReAM"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "notfresh"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "WHYY"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Downvote"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "KirbStare"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "maybe"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Scott"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "BetaThinks"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1029,
+      "text": "Beta64 Channel Point Rewards",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Andrew Retires"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pick a Game For Me To Stream!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Chair64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Avatar Bomb!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Background Change"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Choose an Emote to Unlock!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Andrew Swears on Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Take a Pee Break"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Change the Game Name"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Woah Moment"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "waauwwaauw.wav"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Silent64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Andrew Sees Your Message!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Get/Give a FREE Tier 2 Sub!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Personal Shoutout"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Ban a Noun"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Redeem VIP"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Get/Give a FREE Tier 3 Sub!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Episode Number"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1030,
+      "text": "Foods tested on the Taste Test Stream",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mayonnaise"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "One Chip Challenge"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Big Mac"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Swedish Fish"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tomatoes"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kraft Mac & Cheese"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Domino's Pizza"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sun Chips"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Hot pepper"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cucumber"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dunkaroos"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Quaker Oats Instant Oatmeal"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Lunchables Cheese Pizza"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Beef Jerky"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cheez-It"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "G-Fuel"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pretzel Crust Pizza"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Taco Bell"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Whopper"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1031,
+      "text": "Andrew64 videos",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "i don't even know - an album i made for a twitch stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nintendo Gigaleak Recap with Andrew from Beta64!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Raw Meat - A 3DMM Film"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "what if it was all a dream?"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "where's psychonauts 2, game awards??? #GETSHORTED"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Commentary - Luigi's Mansion"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Looking Back at the DVDs I Made"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "original song"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Beta64 Interview - Cuphead"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "teaser1.mp4"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Andrew64 - A PAX 2020 VLOG Video"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "2 UNUSED Areas in SpongeBob Battle For Bikini Bottom Rehydrated!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "So.. I just got done playing all of Sonic 06 for the First Time ever"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Raw Meat Collection FULL VHS CAPTURE"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The first plush based on Luigi's Mansion's BETA Build to ever exist!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "IT'S DONE! I WIN! SONIC HEROES: COMPLETE!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Baking Gingerbread Cookies and Hot Cocoa for that Warm Holiday Feeling!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The FINAL Miitopia Stream"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Great Bone Search of 2022"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Ball Mark Presents: What The Frack (A New 3D Movie Maker Film!)"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1032,
+      "text": "Scott the Woz episodes",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Let's Make a Game Console!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Rated E for Irrelevant"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Stop Smoking!"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Anime Games"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Borderline Forever"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nintendo Switch: 10 Years In"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Luigi's Mansion"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Twitter: It Exists???"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Derf Gun"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Internet and You"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Best of Scott The Woz 2017"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nintendo Switch Presentation 2017"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Most Wanted Smash Bros. Stages"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Arms vs. Splatoon | Battle of the New IPs"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "A Look Back at E3 Rumors"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "On Your Mark, Get Set...Munch!!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Top 10 Commandments"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sonic Spinball"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "A Tour of My Frat House"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "FIRST TIME VAPE SHOP VISIT!"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1033,
+      "text": "Cities in Oklahoma",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Oklahoma City"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Edmond"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Broken Arrow"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sand Springs"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tulsa"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Dayton"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Toledo"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Lansing"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Fresno"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Huntington"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Glenpool"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Miami"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Collinsville"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "McAlester"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Weatherford"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "San Antonio"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Snacktopia"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Andrew's Residence"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Grand Junction"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Silverton"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1034,
+      "text": "Tomodachi Life islanders",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Uncle Al"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Freddy Fazbear"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Walter White"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Donkey Kong"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Kirby"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Jimmy Neutron"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Shadow The Hedgehog"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Squidward"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Brian Griffin"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Ballsy"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Slenderman"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cheese Nips"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Holly Mistletoe"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Clampus Bluster"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Hunter Ghost"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Jill Wagner"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Jesse Pinkman"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Raw Meat Man"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "JJDB210"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cashspoon"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1035,
+      "text": "Wipeout obstacles",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Big Balls"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sucker Punch"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Butt Kicker"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Bally-Go-Round"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Human Pinball"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Whip Lash"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Big Splash"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Faucet"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Ultra Smash"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Bigger Balls"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Donut Run"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Leap of Faith"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "A Bridge Too Far"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "The Sweeper"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Tumble Tubes"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sensational Stumbles"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Lovely Falls"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mine Sweeper"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Swingin' in the Breeze"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Slip Slidin' Away"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1036,
+      "text": "3D Movie Maker actors",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Slam"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Augustin"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Jeremy"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Claudia"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Crash"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Liam"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "William"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Aiden"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Mia"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Navy"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Eliza"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Salvador"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "B.O.N.G.O."
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Patrick"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Crash"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Timothy"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kevin"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Theodore"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Vinny"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Henry"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "James"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1037,
+      "text": "Scrapped video game characters",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kug (Super Mario Sunshine)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Kamek (Mario Kart 64)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Kid Kirby"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cashspoon (Cheese Nips Rescue 2)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Gold Puncher (Luigi's Mansion)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kevin (Raw Meat)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Scumbo (Cheese Nips Rescue 2)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Marty the Thwomp (Mario Kart 64)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Big the Cat (Sonic Adventure 2)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Goomba (Super Mario Sunshine)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Purple Twirler (Luigi's Mansion)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Luigi (Super Mario 64)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Bill (Super Mario Galaxy)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mephiles (Sonic Forces)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dummy NPC (Super Mario Galaxy)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Invalid (Super Mario Sunshine)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Glover"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Nerd (Trivia Murder Party 2)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kevin (Schrodinger's Carl 2)"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pinchly (DKC Returns)"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1038,
+      "text": "Walt Disney World Attractions",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Splash Mountain"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pirates of the Caribbean"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dinosaur"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Spaceship Earth"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Star Wars: Rise of the Resistance"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Buzz Lightyear Astro Blasters"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Indiana Jones Adventure: Temple of the Forbidden Eye"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Finding Nemo Submarine Voyage"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Magic Journeys"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The World Beneath Us"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "If You Had Wings"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Big Thunder Mountain Railroad"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Space Mountain"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Soarin'"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Buzz Lightyear's Space Ranger Spin"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Snow Mountain"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Radiator Springs Racers"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Web Slingers: A Spider-Man Adventure"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Grizzly River Run"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "The Parking Lot"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1039,
+      "text": "BEET Awards 2021 clip nominees",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Face Training at its finest"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "cursed beta64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "this is the definition of vtuber"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Andrew Realizes"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cry64"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "monke and then no-no word"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "dear mrbeast"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Beta Screams @ Blue Screen"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "YTP Funny Moment"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Good luck sleeping"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Does He Know?"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1040,
+      "text": "Games Andrew Has Never Beaten on Stream",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Pikmin"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Hypnospace Outlaw"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Metroid Fusion"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Donkey Kong Country Returns"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Chibi-Robo! Zip Lash"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Sonic Heroes"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kirby's Epic Yarn"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Banjo-Kazooie"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Splatoon 2: Octo Expansion"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Glover"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Yoshi's Woolly World"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Wii Sports Resort"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1041,
+      "text": "Characters in the Cheese Nips Rescue Franchise",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Andrew"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Kirb"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Scott The Woz"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Duzzys Mom"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Justin (JJDB210)"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "BenBenTV"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Kronk"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Scumbo"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Kevin Augustin"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Scoots"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Mr. Shave"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Nicky"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Walter White"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Sonic"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Hexen"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Bonzi Buddy"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Nooks"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "SMBFan"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Cashspoon"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "Dizmond"
+        }
+      ],
+      "us": false
+    },
+    {
+      "x": false,
+      "id": 1042,
+      "text": "Beta64 Discord stickers",
+      "choices": [
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "b64hey"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "psycho64"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "AndPog"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "snoot"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "gonna cut you 64"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Cringe"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "bruh"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "squish"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Pat"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Andrew Drink"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "yassedbeta"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "sleepykirby"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "reallifemario"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "green"
+        },
+        {
+          "difficulty": 0,
+          "correct": true,
+          "text": "imgood"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "bigeye"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "korby"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "What Was He Cooking?!"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "Stare64K"
+        },
+        {
+          "difficulty": 0,
+          "correct": false,
+          "text": "DefinitelyYes"
+        }
+      ],
+      "us": false
+    }
+  ]
+}

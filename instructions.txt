@@ -1,2 +1,0 @@
-TO INSTALL : Copy and replace the existing files in the steam game directory.
-TO UNINSTALL : Go to steam and reverify the files to revert the game to it's nonmodded version.

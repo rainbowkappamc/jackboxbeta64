@@ -1,0 +1,6492 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1001,
+      "text": "What is Andrew's twitch called?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64's Secret Channel",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "BetaAndChill",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1002,
+      "text": "When was Beta64's twitch created?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Oct 29, 2014",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Oct 31, 2014",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Oct 11, 2014",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Oct 10, 2014",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1003,
+      "text": "When was Beta64's youtube channel created?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Aug 10, 2011",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Aug 11, 2011",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dec 11, 2012",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Aug 10, 2012",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1004,
+      "text": "What's Beta64's bot?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "BotusBot64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot65",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot66",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot64",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1005,
+      "text": "Who's not a bot?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Streamelements",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chatbot64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "PocketNooks",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Nightbot",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1006,
+      "text": "What was teaser1.mp4 for?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "New Beta64 Video",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Game Cartagraphy",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Twitch Marathon",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Crap Stream 2018",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1007,
+      "text": "Which Scott the Woz video has Beta64 appeared in?",
+      "pic": false,
+      "us": true,
+      "scott": true,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Borderline Forever - Scott The Woz",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Trial - Scott The Woz",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Eek! Emulation! - Scott The Woz",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nintendo DSiWare - Scott The Woz",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1008,
+      "text": "Who streams a hour and a half prior to Beta64?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "HexenHell",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "DanSalvato",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "jjdb210",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1009,
+      "text": "When was Miyamoto's 70th Birthday?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "11/16/2021",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "11/16/2020",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "11/16/2019",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "11/16/2022",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1010,
+      "text": "What kind of hat does JJDB wear?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A Luigi Hat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Mario Hat",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A Mickey Mouse Hat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Top Hat",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1011,
+      "text": "What Beta64 Video did Scott The Woz cameo in?",
+      "pic": false,
+      "us": true,
+      "scott": true,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Breath of the Wild [NO SPOILERS]",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Super Mario Maker",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Super Mario Galaxy 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Super Mario Galaxy",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1012,
+      "text": "What type of streamer is Beta64?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A Safe For Work variety streamer",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A Family Friendly variety streamer",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A PG-13 variety streamer",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Mature variety streamer",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1014,
+      "text": "Who is Beta64s Favorite Vocaloid?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Hatsune Miku",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Rin Kagamine",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Kasane Teto",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Utatane Piko",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1015,
+      "text": "Who made the 1999 PS1 Game \"Pepsiman\"?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "PepsiCo",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Vivendi Games",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sony Interactive Entertainment",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "KID",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1016,
+      "text": "Who's the Boxing Champion of Wii Sports?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Abby",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Matt",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Jimmy",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Poofesure",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1017,
+      "text": "Which wii game did not get a wii u sequel?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wii Fit",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Sports",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Party",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Music",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1018,
+      "text": "What is Cheese Nips Rescue made in?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Game Builder Garage",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Unity",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Unreal Engine 4",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dreams",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1019,
+      "text": "When was the first Nintendo Direct?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "October 21, 2010",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "October 21, 2009",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "October 21, 2012",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "October 21, 2011",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1020,
+      "text": "What is the name of the Island in Wii Fit?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wuhu Island",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Fitty Island",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Maka Wuhu Island",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mii Island",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1021,
+      "text": "What 64DD Feature utilized the Randnet service?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "64DD Internal Clock",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "64DD Television Receiver",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "64DD Modem Cartridge ",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "64DD Drawing Tablet",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1022,
+      "text": "How many games were made for the Phillips CD-i?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true, 
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "158",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "194",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "97",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "124",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1023,
+      "text": "When did Beta64 released his original Luigi's Mansion video?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "8 Years Ago",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "9 Years Ago",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "10 Years Ago",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "11 Years Ago",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1024,
+      "text": "How long was Beta64's BFBB Video?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "30 mins",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "79 mins",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "120 mins",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "60 mins",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1025,
+      "text": "What sport was not in the final version of Wii Sports?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Boxing",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Baseball",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Golf",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Airplane",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1026,
+      "text": "Where would I go to get a box of Cheese Nips?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "United States",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mexico",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "United Kingdom",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Canada",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1027,
+      "text": "Who made Cheese Nips?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Green Green company",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nabisco",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Keebler Company",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Kellogg's",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1028,
+      "text": "What year did Cheese Nips get discontinued?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "2020",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "2021",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2016",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2017",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1029,
+      "text": "What is JJDB210's Minecraft Server Called?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Epcot",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "JJDBNet",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Emcot",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "JJLand",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1030,
+      "text": "What was the first Beta64 Game Cartography Game Streamed?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wii Sports",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Spongebob Battle for Bikini Bottom",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "New Super Mario Bros. Wii",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Luigi's Mansion",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1031,
+      "text": "When was the last Game Club Podcast Video Uploaded?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Mar 9, 2020",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Mar 15, 2020",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mar 19, 2020",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mar 24, 2020",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1032,
+      "text": "What was the first video on Beta64 Live?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - WarioWare: Mega Party Game$! w/ Friends (JFF)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - A Hat in Time (JFF)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - Project Diva F 2nd (JFF)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - Luigi's Mansion PAL (JFF)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1033,
+      "text": "What was the Unreleased Beta64 Pilot Episode?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A Video About The Nintendo 64DD",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A Video About The Nintendo 64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Video About The Nintendo Gamecube",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Video About The Nintendo DS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1034,
+      "text": "Who is not a character in Cheese Nips Rescue 2?",
+      "pic": false,
+      "us": true,
+      "scott": true,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Hexen",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bandrew",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Joker from Persona 5 on Microsoft Xbox",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cashspoon",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1035,
+      "text": "What game gave the world Megalovania?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Undertale",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Smash Brothers Ultimate",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Earthbound : Halloween Hack",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Doki Doki Literature Club",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1036,
+      "text": "Who wants the croissant?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Carl Wheezer",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Jimmy Neutron",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Spongebob Squarepants",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Timmy Turner",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1037,
+      "text": "Where will Andrew go if he retires?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Iceland",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Greenland",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Antarctica",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Russia",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1038,
+      "text": "How many Wipeout games are on the Nintendo Wii? ",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "3",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "4",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1040,
+      "text": "How many units of Wii Sports were sold?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "82.9 million",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "83.0 million",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "82.8 million",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "82.7 million",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1041,
+      "text": "What's the codename for Wii Sports?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Party Pack for Revolution",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sports Pack for Revolution",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Fitness Pack for Revolution",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Music Pack for Revolution",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1042,
+      "text": "How many songs are in Wii Music?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "63",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "72",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "50",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "42",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1043,
+      "text": "What does E3 stand for?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Entertainment 3",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Electronic Entertainment Expo",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Expo Convention 3",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "SpaceWorld 3.0",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1046,
+      "text": "When did Minecraft 1.0.0 come out?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "September 18, 2010",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "September 18, 2011",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "November 18, 2010",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "November 18, 2011",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1047,
+      "text": "Is Raw Meat Healthy?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "It Is.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "It Is.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "It Is.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "It's Not.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1049,
+      "text": "What does the plaque say in SM64's Castle Courtyard?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Luigi has been Unlocked.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nothing.",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "2401 Coins in Super Mario Sunshine.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "7-26-2002",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1052,
+      "text": "Who is in the cutscenes for the PS1 Game \"Pepsiman\"?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Caleb Bradham",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Jack Black",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chris Pratt",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mike Butters",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1053,
+      "text": "Where did Scott The Woz appear on TV?",
+      "pic": false,
+      "us": false,
+      "scott": true,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Disney+",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cartoon Network",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "G4",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Comedy Central",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1055,
+      "text": "What is the name of Andrew's fursona?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "sqolf",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "wafflez",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "liam",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "John fursona",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1056,
+      "text": "What was Scott The Woz's first Youtube Video?",
+      "pic": false,
+      "us": false,
+      "scott": true,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Nintendo Switch Wish List - Scott The Woz",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Internet and You",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A Tour of My Frat House | Alpha Menorah JavaScript",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "FIRST TIME VAPE SHOP VISIT! - VLOG",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1057,
+      "text": "When did Wipeout get rebooted?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "June 24, 2021",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "April 1st, 2021",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "June 24, 2020",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "April 1st, 2020",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1061,
+      "text": "What Minecraft Update added the end?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1.0.0",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta 1.7",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1.5.2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta 1.6",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1062,
+      "text": "What Minecraft update added target blocks?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1.16",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "1.15",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1.13",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1.12 ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1063,
+      "text": "What Minecraft version is \"Zelda Adventure\"?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta 1.7.3",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Release 1.7.3",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta 1.6.0",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Release 1.6.4",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1065,
+      "text": "Who's Morbin?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Dr. Michael Morbius",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Andrew Morbius",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Justin Morbius",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Morb Morbius",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1066,
+      "text": "What is not true about the Film Raw Meat?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Brian Overbee & Marc Fellerman are listed as creators on 3dmmstudio.co.uk",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The original plot of the film is from his time in Japan.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Kevin's actual 3DMM name is Augustin.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Playing Mystery Evil DMCAs Content.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1067,
+      "text": "What pizza place closed in Andrew's area?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Fazoli's",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Gino's Pizzaria",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Pizza Hut ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cici's Pizza and Buffet",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1068,
+      "text": "What is Uncle Al's occupation?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Taxi Driver",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Twitch Moderator",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "American Truck Driver",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "QA Tester for Among Us",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1070,
+      "text": "Who says \"Good Night and Big Balls\"?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "John Anderson",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "John Henson",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Jill Wagner",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Vanessa Lachey",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1072,
+      "text": "Which of the following is a video on Beta64s secret channel?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "original remix",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "original cover",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "original song",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "big balls.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1073,
+      "text": "What is used for discord music nights?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "DVDs",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Casette Tapes",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "VHS Tapes",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Vinyls",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1075,
+      "text": "What is the root word of the word \"harder?\"",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "hard",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "er",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "har",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "der",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1076,
+      "text": "8 minus 6 is what?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1077,
+      "text": "6 feet is how many meters?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1.8",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "7.8",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "3.8",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "5.8",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1078,
+      "text": "In what habitat would you find a gila monster?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "ocean ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "tundra",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "desert",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "forest",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1079,
+      "text": "What's the distance around a closed figure?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Area ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Volume ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Circumference ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Perimeter ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1081,
+      "text": "Which of these is a song Beta made?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Original Song",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Raw Meat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Truck Pants",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Good Night and Big Balls",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1082,
+      "text": "Um... are you going to finish that... ",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "cookie",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "donut",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "croissant",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "corposant",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1083,
+      "text": "Which of these is not a form of Geewizdo?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Spore Creature ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dog ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Chao ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mii ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1084,
+      "text": "What system is the Persona Series NOT on?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Xbox One / Series",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Playstation 3 / 4 / 5",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nintendo 3DS",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nintendo Wii U",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1085,
+      "text": "What instrument does NOT fit in a suitcase?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Bass",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Recorder",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Clarinet",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cello",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1086,
+      "text": "Can we raid Jerma?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "No Big Balls Raid",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "No Raw Meat Raid",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "No Mario 128 Raid",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "No Sus Raid",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1087,
+      "text": "Which of these Jackbox Games came out first?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The Jackbox Party Pack as Jackbox Games",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "You Don't Know Jack! 2011 as Jellyvision",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Fibbage XL as Jackbox Games",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "That's a Fact, Jack! as Learn Television",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1090,
+      "text": "What happened on 12/11/2022?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64's Luigi's Mansion Video turned 10",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64's Wii Sports Video turned 10",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64's N64DD Video turned 10",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64's Youtube Channel turned 10",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1091,
+      "text": "What is Kevin's Signature Line?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Raw Meat",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Raw Reindeer"
+        },
+        {
+          "controllerClass": "",
+          "text": "Raw Sushi"
+        },
+        {
+          "controllerClass": "",
+          "text": "Cooked Meat"
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1092,
+      "text": "What's the name of the friendly Razor from the CNR series?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Dr. Clean Shave",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Uncle Razor",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Shaving Time",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mr. Shave",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1093,
+      "text": "How do you get into Ultra Fans?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Level 20 on the Beta64 discord ",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Sub for a year to Beta64 on twitch",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Donate $500 total to Andrew",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Make a lobstersona",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1094,
+      "text": "What is the name of Beta's Award Show?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The BETA Awards",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Submit for Stream Awards",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The BET Awards",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The BEET Awards",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1095,
+      "text": "What game gave the world Megalomania?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Undertale",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Live A Live",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Paper Mario ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bug Fables",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1096,
+      "text": "Where does Nintendo Switch Sports take place?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wii Fitty Island",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wuhu Island",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Spocco Square",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Sports Pack Plaza",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1097,
+      "text": "Who won the Raw Meat VHS Tape?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "JJDB210",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "KrustyTowers",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Chiptuner",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "ScottNoLastName",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1098,
+      "text": "Wii Sports' Golf features courses from which series?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Golf (NES)",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Mario Golf (GBC and N64)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Everybody's Golf (PS1)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Ace Golf (GCN)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1099,
+      "text": "What handheld was the first to have online connectivity?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Nintendo DSi",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Playstation Portable",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nintendo Switch Lite",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nintendo DS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1100,
+      "text": "What does Chair64 do?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta knocks his chair over",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta stands instead of sitting",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta lets his chair take over stream",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta buys a new chair",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1101,
+      "text": "When did G4 end?",
+      "pic": false,
+      "us": false,
+      "scott": true,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "November 18, 2022",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "December 18, 2022",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "October 18, 2022",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "September 18, 2022",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1102,
+      "text": "What is the name of Andrew's latest update video?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Life Update",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Where is Beta64??",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Business Meeting",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "I Heard Your Feedback, And I Agree",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1103,
+      "text": "Which is the first ever Beta64 meme?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Adam the Pizza Man",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "KitKat",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 sings Last Surprise",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1104,
+      "text": "What is the conflict of Cheese Nips Rescue 2?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Giant vortex",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Bandrew raiding the Cheese Nips vault",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew forgetting his Wife's birthday",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew gets stuck inside of Wipeout",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1105,
+      "text": "Who's getting nuked?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "SMBFan",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "RainbowKappa",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "LLAMAZ",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dizmond ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1106,
+      "text": "How many units of the Hunter Ghost plush were sold?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "206",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "255",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "279",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "264",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1107,
+      "text": "What was Sonic the Hedgehog's first appearence?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Altered Beast",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic the Hedgehog",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Rad Mobile",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Daytona USA",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1108,
+      "text": "Put some honey on your... what?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Pringers",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Pringles",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Pringies",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Prings",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1109,
+      "text": "Which Scott the Woz video has Beta64 appeared in?",
+      "pic": false,
+      "us": true,
+      "scott": true,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "It's a Bargain Bin Christmas",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "You're Not an RPG Guy: A Scott the Woz Christmas",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Great Mysteries of Gaming",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "It's Awesome Baby!",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1110,
+      "text": "When did Scott the Woz reach 1 million subscribers?",
+      "pic": false,
+      "us": false,
+      "scott": true,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "4/2/2020",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "5/27/2020",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "12/24/2019",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "6/3/2020",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1111,
+      "text": "Which game is mentioned the most in the Beta64 Discord?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Undertale",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Live a Live",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bug Fables",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Shovel Knight",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1112,
+      "text": "How many total mods are there in the Beta64 Discord?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "5",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "4",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "6",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1113,
+      "text": "Who is the cop from the AI Dungeon streams?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Kevin Bluster",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Al Bluster",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "John Bluster",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Clampus Bluster",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1114,
+      "text": "He forever haunts Kevin's dreams. Who is he?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Mr. Cooked Meat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Raw Meat Man",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Chicken",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "\"Kevin\"...",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1115,
+      "text": "Where is Andrew's PO Box?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1341 Ottis Street, Oklahoma City, Oklahoma",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "0123 Rumble Dumble Deez, Midwest City, Oklahoma",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "3126 South Blvd, Edmond, Oklahoma",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "2980 Dovetail Estates, Gage, Oklahoma",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1116,
+      "text": "What is the most popular Twitch Clip on the Twitch Clips YouTube channel?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - ya know... :flushed:",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - my new alarm",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - princess toadstool, WHAT?!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Live - Beta...",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1117,
+      "text": "Which stream was the first appearence of Bandrew?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Beta64's Cheese Nips Rescue: A Dream by Cashspoon #1",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Wii Sports Modding! #1 - Game Cartography",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Planet Coaster (Cursed Stream!)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Cooking Mama: Cookstar",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1118,
+      "text": "How much does Nicky - The Home Alone Golf Ball cost?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1.99",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "0.99",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "0.01",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2.99",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1119,
+      "text": "What is the time for Andrew's Wipeout softlock speedrun?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "2m 12s 880ms",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "1m 4s 914ms",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "4m 21s 103ms",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "3m 34s 725ms",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1120,
+      "text": "What was the name of game Beta64 made like Wario Ware?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Raw Meat: Dating Sim",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta Party",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Snack Attack",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1133,
+      "text": "What is the name of Beta64's First Game Awards Short?\r\n\r\n",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "dmca": "prompt",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "where's jjdb210, game awards??? #GETSHORTED",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "where's bug fables, game awards??? #GETSHORTED",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "where's wii sports, game awards??? #GETSHORTED",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "where's psychonauts 2, game awards??? #GETSHORTED",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1134,
+      "text": "How many pounds of Raw Meat did Stacy eat in Raw Meat 2?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "42 lbs",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "38 lbs",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "36 lbs",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "48 lbs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1135,
+      "text": "What was said to be the final Discord movie night movie?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The Bad Guys",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 Marathon",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Spy Kids Trilogy",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "My Little Pony: Friendship is Magic",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1136,
+      "text": "Which stream did Andrew do for 1000 subs?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Casino Stream",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cooking Stream",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Calling Nabisco Stream",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Maid Stream",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1137,
+      "text": "What is a Cookizza?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A Pizza Oven",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Cookie Pizza",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A Pizza Pineapple",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Apron",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1138,
+      "text": "What is the name of Dr. Eggman and Stacy's Baby?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Arlo",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mason",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Ryan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1139,
+      "text": "What temperature is Raw Meat stored at?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": ">60 degrees fahrenheit",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "55 degrees fahrenheit",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "45 degrees fahrenheit",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "<40 degrees fahrenheit",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1140,
+      "text": "Who called the Dinkster?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Juni Cortez",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Marissa Wilson",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Scott Wozniak",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "John Winks",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1141,
+      "text": "Who still makes Cheese Nips?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Nabisco",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Kellogg's",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Christie",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Kraft Heinz Company",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1142,
+      "text": "How do you Parent Bone?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Ctrl + P",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Ctrl + Alt + F4"
+        },
+        {
+          "controllerClass": "",
+          "text": "Ctrl + Alt + Del"
+        },
+        {
+          "controllerClass": "",
+          "text": "Ctrl + C"
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1143,
+      "text": "Who owns Nabisco?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "General Mills",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mondelez International",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Mars, Incorporated",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Hershey Company",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1144,
+      "text": "What name does Cheese Nips go by now?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheez-Nips",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheesy Nips",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nibs",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheez-Nibs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1145,
+      "text": "How many people consumed Cheese Nips in 2016?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "200 thousand",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "4.2 million",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "70.9 thousand",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1.5 million",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1146,
+      "text": "Who made Cheez-Its?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Kellog's",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Pepperidge Farm",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nabisco",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "General Mills",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1153,
+      "text": "What was the last Beta64 video to have the classic thumbnail?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Super Mario World",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Super Mario Kart",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Breath of the Wild [NO SPOILERS]",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - WarioWare Inc. / Sound Bomber",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1154,
+      "text": "What was the last Beta64 Live video to have the classic thumbnail?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Shovel Knight: Shovel of Hope #3 (END)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Marbles On Stream #79",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Super Princess Peach, Boktai, Wipeout HD, Beta64 Jackbox Mod 3.3, and more!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] The Stanley Parable: Ultra Deluxe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1155,
+      "text": "When was this mod first streamed?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "December 1, 2021",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "November 17, 2021",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "December 14, 2021",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "April 2nd, 2021",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1156,
+      "text": "What is the name of the Island in Wii Sports Resort?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wuhu Island",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Fitty Island",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Maka Wuhu Island",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mii Island",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1157,
+      "text": "How many bits are required for the TTS to read the message?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "50 bits",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "25 bits",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "32 bits",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "64 bits",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1158,
+      "text": "What is jjdb210's favorite drink?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Pepsi",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Coca-Cola",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Jones Soda",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "G-Fuel",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1159,
+      "text": "What Nintendo Power issue is the Hunter Ghost mentioned in?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "October 2001",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "October 2002",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "October 2000",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "October 1999",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1160,
+      "text": "What channel was played in the background during the hotel stream?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Nickelodeon",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "True Crime: Identity Theft",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "COIN - Collectable Coins with Steve and Allison",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Lose Your Crepey Skin! 65 Looks 45!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1161,
+      "text": "Which lonely islander NEEDS a friend?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Donkey Kong",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Slenderman",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nooks",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Hugh Neutron",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1162,
+      "text": "What stream series is the succesor to Game Cartography?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Crappy Stream",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Making 3D Movies in 3D Movie Maker!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Making a CURSED Wii Sports Mod!",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Story Time with AI Dungeon!",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1163,
+      "text": "What would cost more money for a daughter instead of a son?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Shopping",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Shoes",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Clothing",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Jewelry",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1164,
+      "text": "Which quote is It's too big, I can't control it?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Quote 64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Quote 420",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Quote 69",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Quote 210",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1165,
+      "text": "What shirt is Andrew wearing in his profile picture?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "the Back to the Beta shirt",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "a Nintendo logo shirt",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "a blank red shirt",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "a Mario shirt",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1166,
+      "text": "What is on Diddy Kong's hat?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "the Nintendo logo",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "nothing",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "the DK initials",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "a star",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1167,
+      "text": "When did Andrew get married?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "August 5h, 2018",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "September 27th, 2019",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "September 21st, 2018",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "August 3rd, 2019",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1168,
+      "text": "What was the name of the now-defunct site that Jerma985 owned?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "jermaweb",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "jermacom",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "jermaworld",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "jermanet",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1169,
+      "text": "How long was Jerma985's first Green Screen Stream?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "2 hours",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "3 hours",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "5 hours",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "4 hours",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1170,
+      "text": "Which of these emoticons does NOT have a Twitch counterpart?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "frown with V eyebrow",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "eyes with 3 as mouth",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "eyes with Z as mouth",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "eyes with P as mouth",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1171,
+      "text": "According to 3DMM's Talent Book, where was Kevin born?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Italy",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Spain",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "France",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Germany",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1172,
+      "text": "Theoretically, if I was saving Cheese Nip points since 2014, how long would it take to redeem Andrew Retires?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "20 thousand years",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "7 thousand years",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1 million years",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "50 thousand years",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1173,
+      "text": "Which of these is NOT a FrankerFaceZ emote?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "PureToad",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "UncannyBeta",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Anguish",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bawooga",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1174,
+      "text": "In </i>Sonic Colors<i>, who says I think that's the wrong chip?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Orbot",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cubot",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Yacker",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Eggman",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1174,
+      "text": "Which of these is NOT a Twitch Moment?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Butter Melting to Stardew Valley OST - The Wind Can Be Still",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "nyan",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "He came out of hiding for this, and it was worth it",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "first sneeze on stream ever",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1175,
+      "text": "Who runs the Beta64 Twitch Clips YouTube channel?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "GlacialPhoenix",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "RainbowKappa",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "TheKrustyTowers",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "ScottNoLastName",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1176,
+      "text": "Which of these lyrics ISN'T in jjdb210's Raw Meat Rap?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "I gotta come up with something better",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "I shouldn't be rhyming anything with video...",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "I'm so sorry",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Isn't that a sin?",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1177,
+      "text": "Who does NOT appear in the 3DMM movie </i>The DMV<i>?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Peter",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Semore",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bob",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Jonathan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1178,
+      "text": "How long does it take to watch Andrew's playthrough of Sonic Heroes?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "12 hours",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2 days",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "a day",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "a week",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1179,
+      "text": "Chat seems to compare Andrew to other people EXCEPT...",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Jeremy Elbertson",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Scott Wozniak",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "James Rolfe",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Bill Gates",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1180,
+      "text": "WE'RE GETTING CLOSE TO THE END is said on stream during which game?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "American Truck Simulator",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Heroes",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Miitopia",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1181,
+      "text": "What did the T in BEET Awards stand for?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Twitch Clips",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "technology",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "things",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "titles",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1182,
+      "text": "Excluding Variety Game Night streams, what was the last VOD to feature [Beta64 Live] in its title?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Giving my most HATED childhood games a second chance!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] Reacting to Nintendo Direct 9.13.2022!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] The Composer Stream",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "[Beta64 Live] The Beginnings of my Tomodachi Life!",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1183,
+      "text": "Which character was scrapped from the original Cheese Nips Rescue?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cashspoon",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Geewizdo",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Eggman",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Ronald McDonald",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1184,
+      "text": "Which chat member am I?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cashspoon",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "RainbowKappa",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "JJDB210",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "SuperMarioBrosFan116",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1185,
+      "text": "In which Beta64 fangame is Bandrew the final boss?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 3",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 goes to Costco",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1186,
+      "text": "Which of these songs was made FIRST?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Uncle Al theme song",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1234",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "original song",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Goodbye Flipnote",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1187,
+      "text": "Which of the following lines Andrew said was scrapped from the original Cheese Nips Rescue 2?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "I don't want this FNAF clone!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Date?",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Have anxiety? Just don't be anxious!",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "You wanna kiss bro?",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1188,
+      "text": "Who is the main protagonist of my Dreams horror game: "10 Minute Wait"?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Andrew",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Mothman",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "An unnamed character",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The dude who calls you at the beginning",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1189,
+      "text": "What's the name of the pizza stand from Dot's Stadium in the original Cheese Nips Rescue 2?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Giga Meat Pizza",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Mega Meat Pizza",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Raw Meat Pizza",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Scumbo's Raw Pizza",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1190,
+      "text": "When did the Nintendo DSi Shop Shutdown?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "March 27th, 2023",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Janurary 30th, 2019",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "July 27th, 2015",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "March 31st, 2017",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1191,
+      "text": "When did the EShop for Nintendo 3DS and Wii U Shutdown?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "March 27th, 2023",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Janurary 30th, 2019",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "July 27th, 2015",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "March 31st, 2017",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1192,
+      "text": "When was Flipnote Hatena discontinued?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "July 31st, 2013",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "May 31st, 2013",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "June 30th, 2013",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "April 30th, 2013",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1193,
+      "text": "What was the time for Andrew's Nicky the Home Alone Golf Ball speedrun?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "1m 47s 114ms",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1m 37s 410ms",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1m 20s 650ms",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "1m 30s 085ms",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1194,
+      "text": "What capital in Cheese Nips Rescue 2 is The Gateway to the Outer Worlds?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheese City",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dot's Domain",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Jones Junction",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Downtown",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1195,
+      "text": "Which game did Andrew say he will never do a Beta64 video on?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Glover",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Play",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Music",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Mario Kart 64 (Super Mario Kart R)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1196,
+      "text": "What is supposedly the next Beta64 video?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The Beta of The Cheese Nips Rescue Series",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Mario Kart 64 (Super Mario Kart R)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Glover",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Nintendo Switch Sports",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1197,
+      "text": "What is the rival to Andrew's favorite snack?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheez-Its",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese-Its",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese-Itz",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheeze-Zits",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1198,
+      "text": "In which Cheese Nips Rescue game did Hatsune Miku first appear?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 1997",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 3",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81809,
+      "text": "What Song is this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Bob-Omb Battlefield - Super Mario 64",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Good Egg Galaxy - Super Mario Galaxy",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bianco Hills - Super Mario Sunshine",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "New Donk City - Super Mario Odyssey",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81808,
+      "text": "What Song is this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Delfino Plaza from Super Mario Sunshine",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Peach's Castle from Super Mario 64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Blockout Lake from Cheese Nips Rescue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Station Square from Sonic Adventure",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81807,
+      "text": "What Song is this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheese City - Cheese Nips Rescue 2",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Dot's Domain - Cheese Nips Rescue 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cafe Conversation - Microsoft 3D Movie Maker",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dizzy Dummies - Wipeout: The Game",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81806,
+      "text": "In what game does Sonic say this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Sonic Colors",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic 06",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Unleashed",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Heroes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81818,
+      "text": "What Song is this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Microsoft 3D Movie Maker - Mystery Evil Theme",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Tomodachi Collection - Mood Ballad",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Music - Swan Lake",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Microsoft 3D Movie Maker - Mystery Good Theme",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81819,
+      "text": "What Game's Beta is this from?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The Beta of Guitar Hero",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Rock Band",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Wii Music",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Mario Paint",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81820,
+      "text": "What Game's Beta is this from?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The Beta of Luigi's Mansion (GCN)",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Luigi's Mansion Dark Moon",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Luigi's Mansion (3DS Remake)",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The Beta of Luigi's Mansion 3",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81821,
+      "text": "What Song is this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Megalovania from Undertale",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Megalomania from Live-A-Live",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Megalo-Strike-Back by Toby Fox",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Battle Tower from Pokemon Sword and Pokemon Shield",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81822,
+      "text": "What Song is this?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Megalovania from Undertale",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Megalomania from Live-A-Live",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Megalo-Strike-Back by Toby Fox",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Battle Tower from Pokemon Sword and Pokemon Shield",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81823,
+      "text": "Does He Know?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "He knows it's original song",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "He knows it's jerma985",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "He knows it scott the woz",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "He knows it's DMCA",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81824,
+      "text": "Who is referenced as Lobber in the Beta64 Discord?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "LLAMAZ",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Dizmond",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "ScottNoLastName",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wick BRSTM",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81825,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Ode to Joy",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Pomp and Circumstance",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Let It Be",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Twinkle, Twinkle, Little Star",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81826,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Maple Treeway from Mario Kart Wii",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Maple Treeway from Mario Kart 7",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Maple Treeway from Mario Kart Tour",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Maple Treeway from Mario Kart 8 Deluxe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81827,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Spooky Skirmish! - RPG 64: A Beta64 RPG",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Ghostly Encounter - Truly Bizarre",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bandrew Boss Fight (Phase 1) - Cheese Nips Rescue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Melody Pianissima - Luigi's Mansion",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81828,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Ashley's Song from WarioWare Touched",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Body Rock from WarioWare D.I.Y.",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Training from Luigi's Mansion",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Escape From the City from Sonic Adventure 2",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81829,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Main Theme - Raw Meat: Dating Sim",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Investigation - Truly Bizarre",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Opening - RPG 64: A Beta64 RPG",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Jones Junction - Cheese Nips Rescue 2",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81830,
+      "text": "Who's Voice Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Kevin",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Clampus Bluster",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bandrew",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Ozwald",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81831,
+      "text": "Who's Voice Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Joker from Persona 5",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Donkey Kong",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Uncle Al",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81832,
+      "text": "Who's Voice Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Professor Elvin Gadd",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Luigi",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Uncle Al",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81833,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Chirpy Chips - Squiddy Holly",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Carl Wheezer - Buddy Holly",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Weezer - Buddy Holly",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - 64-Bit Holly",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81834,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Chirpy Chips -  All I Want for Chipmas is You",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Wham! - Last Christmas",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Toto - Africa",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - original song",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81835,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Gotta Get The WR",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Gotta Get The PB",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Gotta Not Get The First Place",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Gotta Get The Win",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 81836,
+      "text": "What Song Is This?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": true,
+      "dmca": "intro",
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Buddy Holly",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Gotta Get The PB",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Sonic in Minecraft",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 - Luigi's Mansion",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 81814,
+      "text": "Who has survived the most Beta Rooms by now?",
+      "pic": false,
+      "specialBehavior": "bestSurvivor",
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "1"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "2"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "3"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "4"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 81815,
+      "text": "Of these players, who has survived the most Beta Rooms?",
+      "pic": false,
+      "specialBehavior": "betterSurvivor",
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "1"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "2"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "3"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "4"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 81816,
+      "text": "How much money does %PLAYER currently hold?",
+      "pic": false,
+      "specialBehavior": "randomPlayerScore",
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "1"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "2"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "3"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "4"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1147,
+      "text": "Dot's Pretzels are the pride of what?",
+      "pic": false,
+      "us": false,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Ohio",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dakota",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Oklahoma",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wyoming",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": true,
+      "id": 1148,
+      "text": "Who gave Andrew his cat ears?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "JJDB210",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "PocketNooks",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "EssieLessie",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "DavidVKimball",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1149,
+      "text": "What caused the end of Humanity in The <i>Splatoon Series</i>?",
+      "pic": false,
+      "us": false,
+      
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A Nuclear Warhead Hit the South Pole.",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A Nuclear Warhead Hit the North Pole.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A Nuclear Warhead Hit the Moon.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nuclear Warheads Hit Every Known Population Center on Earth.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1150,
+      "text": "Who defends Mario in Nintendo's </i>Super Mario Sunshine<i>?",
+      "pic": false,
+      "us": false,
+      
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Mario?",
+          "realText": "Nobody Defended Him...",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Phoenix Wright",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Luigi",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "John lmao",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1151,
+      "text": "Which chat member am I?",
+      "pic": false,
+      "us": true,
+
+      "scott": false,
+      "other": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "supermariobrosfan116",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "jjdb210",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "RainbowKappa",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cashspoon",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 1152,
+      "text": "What was </i>George Bush's</i> job before he became president?",
+      "pic": false,
+      "us": false,
+      
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Vice-President",
+          "realText": "Vice-President to 40th President Ronald Reagan",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Peanut Farmer",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Movie Actor",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Musician",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 81817,
+      "text": "What is %PLAYER's current rank (position) on the scoreboard?",
+      "pic": false,
+      "specialBehavior": "randomPlayerRank",
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "1"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "2"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "3"
+        },
+        {
+          "controllerClass": "",
+          "correct": false,
+          "text": "4"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    }
+  ]
+}

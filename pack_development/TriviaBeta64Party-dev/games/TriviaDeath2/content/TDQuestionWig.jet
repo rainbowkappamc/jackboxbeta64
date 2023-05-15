@@ -1,0 +1,128 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 60000,
+      "text": "What game did we 100% together?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Mario Golf: Super Rush",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Mario 3D World",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "The Forest",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Phasmophobia",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 60001,
+      "text": "Which game did we compete in tournaments for?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Fall Guys",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Splatoon 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "VRChat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Among Us",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 60002,
+      "text": "Which game HAVEN'T we played together?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The Forest",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Phasmophobia",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nintendo Switch Sports",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Splatoon 2",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 60004,
+      "text": "What phobia do we share?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "The fear of meat",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The fear of the ocean",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The fear of closed spaces",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "The fear of insects",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

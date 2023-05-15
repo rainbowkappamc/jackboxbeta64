@@ -1,0 +1,10 @@
+{ 
+    "id":"Main", 
+    "name":"Trivia Death Main", 
+    "types":[
+        "TDSequel",
+        "TDQuestion", "TDQuestionBomb", "TDQuestionHat", "TDQuestionWig", "TDQuestionKnife", "TDQuestionGhost", "TDQuestionMadness",
+        "QuiplashContent", "TDDictation", "TDMirror", "TDMirrorTutorial", "TDMindMeld",
+        "TDFinalRound"
+    ] 
+}
