@@ -121,7 +121,7 @@
     {
       "x": false,
       "id": 1002,
-      "text": "Cheese Nip Rescue Entries",
+      "text": "Cheeze Nip Rescue Entries",
       "choices": [
         {
           "difficulty": 0,
@@ -355,7 +355,7 @@
     {
       "x": false,
       "id": 1005,
-      "text": "Cheese Nips Rescue Stages",
+      "text": "Characters in the Cheese Nips Rescue Franchise",
       "choices": [
         {
           "difficulty": 0,
@@ -3485,7 +3485,7 @@
     {
       "x": false,
       "id": 1038,
-      "text": "Walt Disney World Attractions",
+      "text": "Walt Disney World attractions",
       "choices": [
         {
           "difficulty": 0,

@@ -4,29 +4,29 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70000,
-      "text": "What is Beta64's first name?",
+      "id": 20000,
+      "text": "What infamous game was shown at E3 2008?",
       "pic": false,
       "us": false,
       "choices": [
         {
           "controllerClass": "",
-          "text": "Scott",
+          "text": "Wii Sports Resort",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Andrew",
+          "text": "Wii Music",
           "correct": true
         },
         {
           "controllerClass": "",
-          "text": "Anthony",
+          "text": "Wii Play Motion",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Nathaniel",
+          "text": "Wii Fit",
           "correct": false
         }
       ]
@@ -35,29 +35,29 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70001,
-      "text": "What are the red, spherical obstacles in Wipeout?",
+      "id": 20001,
+      "text": "What feature was scrapped from the 2007 Build of Wii Music?",
       "pic": false,
       "us": false,
       "choices": [
         {
           "controllerClass": "",
-          "text": "Red Bouncy",
+          "text": "Music Creator",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Sucker Punch",
+          "text": "Balance Board Drumkit",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Big Balls",
+          "text": "Conducting during Jam Sessions",
           "correct": true
         },
         {
           "controllerClass": "",
-          "text": "Door Knock",
+          "text": "Online Jam Ranking",
           "correct": false
         }
       ]
@@ -66,29 +66,29 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70002,
-      "text": "How does Kevin like his meat?",
+      "id": 20002,
+      "text": "What does CNR stand for?",
       "pic": false,
       "us": false,
       "choices": [
         {
           "controllerClass": "",
-          "text": "Raw",
+          "text": "Cheese Nips Rescue",
           "correct": true
         },
         {
           "controllerClass": "",
-          "text": "Medium well",
+          "text": "Cheez Nip Revenge",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Overcooked",
+          "text": "Cookie Nuke Rescue",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Well done",
+          "text": "Cheeze Nips Rescue",
           "correct": false
         }
       ]
@@ -97,29 +97,29 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70003,
-      "text": "What was Beta64's first video?",
+      "id": 20003,
+      "text": "What PO Box package did Andrew say was his favorite?",
       "pic": false,
       "us": false,
       "choices": [
         {
           "controllerClass": "",
-          "text": "Super Mario World",
+          "text": "A Taco Bell Branded MySims Demo Disc",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Super Smash Bros.",
+          "text": "Japanese Copy of Luigi's Mansion",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Super Mario 64",
+          "text": "Wii Music Instrument Accessory Kit",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Luigi's Mansion",
+          "text": "Tomodachi Collection",
           "correct": true
         }
       ]
@@ -128,7 +128,7 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70004,
+      "id": 20004,
       "text": "What is Luigi's Mansion?",
       "pic": false,
       "us": false,
@@ -157,31 +157,33 @@
     },
     {
       "hasOutro": false,
-      "hasIntro": false,
+      "hasIntro": true,
       "x": false,
-      "id": 70005,
-      "text": "What cheese snack does Andrew love?",
+      "id": 20005,
+      "text": "What song was I playing?",
       "pic": false,
-      "us": false,
+      "us": true,
+      "scott": false,
+      "other": true,
       "choices": [
         {
           "controllerClass": "",
-          "text": "Cheez-It",
+          "text": "Dr. Luigi - Title Theme",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Better Cheddars",
+          "text": "Dr. Mario - Chill",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Cheese Nips",
+          "text": "Dr. Mario - Fever",
           "correct": true
         },
         {
           "controllerClass": "",
-          "text": "Cheese Curls",
+          "text": "Tetris  - Main Theme",
           "correct": false
         }
       ]
@@ -190,29 +192,29 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70006,
-      "text": "What is the color of Hatsune Miku?",
+      "id": 20006,
+      "text": "What Dreams Game did I appear in?",
       "pic": false,
       "us": false,
       "choices": [
         {
           "controllerClass": "",
-          "text": "Blue",
+          "text": "Beta64 goes on Wipeout",
           "correct": true
         },
         {
           "controllerClass": "",
-          "text": "Green",
+          "text": "Beta64 goes to Costco",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Red",
+          "text": "10 Minute Wait",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Yellow",
+          "text": "Cheese Nips Rescue 2",
           "correct": false
         }
       ]
@@ -221,153 +223,29 @@
       "hasOutro": false,
       "hasIntro": false,
       "x": false,
-      "id": 70007,
-      "text": "Which Beta64 fangame was created first?",
+      "id": 20007,
+      "text": "What fangame did I annouce for Andrew's birthday in 2021 but then hid under the rug?",
       "pic": false,
       "us": false,
       "choices": [
         {
           "controllerClass": "",
-          "text": "RPG 64",
+          "text": "Dr. Andrew Beta64s Devilish Stream Training",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Cheese Nips Rescue",
+          "text": "Andrew Dating Sim (featuring Boxdrew)",
           "correct": true
         },
         {
           "controllerClass": "",
-          "text": "Truly Bizzare",
+          "text": "Wii Music: The Beta64 Mod",
           "correct": false
         },
         {
           "controllerClass": "",
-          "text": "Raw Meat: The Game",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "hasOutro": false,
-      "hasIntro": false,
-      "x": false,
-      "id": 70008,
-      "text": "Which of these characters is a robot?",
-      "pic": false,
-      "us": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "text": "E-123 Omega",
-          "correct": true
-        },
-        {
-          "controllerClass": "",
-          "text": "Shadow the Hedgehog",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Rouge the Bat",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Blaze the Cat",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "hasOutro": false,
-      "hasIntro": false,
-      "x": false,
-      "id": 70009,
-      "text": "What is Andrew's twitch called?",
-      "pic": false,
-      "us": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "text": "Beta64",
-          "correct": true
-        },
-        {
-          "controllerClass": "",
-          "text": "Beta64's Secret Channel",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Andrew64",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "BetaAndChill",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "hasOutro": false,
-      "hasIntro": false,
-      "x": false,
-      "id": 70010,
-      "text": "Who is Beta64's bot?",
-      "pic": false,
-      "us": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "text": "BotusBot64",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Chatbot65",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Chatbot66",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Chatbot64",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "hasOutro": false,
-      "hasIntro": false,
-      "x": false,
-      "id": 70011,
-      "text": "Who's not a bot?",
-      "pic": false,
-      "us": false,
-      "choices": [
-        {
-          "controllerClass": "",
-          "text": "Streamelements",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "Chatbot64",
-          "correct": false
-        },
-        {
-          "controllerClass": "",
-          "text": "PocketNooks",
-          "correct": true
-        },
-        {
-          "controllerClass": "",
-          "text": "Nightbot",
+          "text": "Push The Button Mod for Jackbox 6 (featuring Jerma985)",
           "correct": false
         }
       ]

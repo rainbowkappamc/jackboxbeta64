@@ -111,6 +111,27 @@
         "DISABLE_USER_ENTRY_KILLING_FLOORS":"No Writing/Drawing Mode",
         "DISABLE_USER_ENTRY_KILLING_FLOORS_DESCRIPTION":"Don’t want chat to be cringe? This mode makes sure that players can't write or draw things.",
 
+        "ENABLE_DICTATION_MINIGAME":"Dictation Mini-Game",
+        "ENABLE_DICTATION_MINIGAME_DESCRIPTION":"Toggle if Cashspoon Teaches Typing.",
+        
+        "ENABLE_MATH_CHALLENGE_MINIGAME":"Math Mini-Game",
+        "ENABLE_MATH_CHALLENGE_MINIGAME_DESCRIPTION":"Enable the speed-based mini-game Math.",
+        
+        "ENABLE_TELEPHONE_MINIGAME":"N64 Disk Drive Mini-Game",
+        "ENABLE_TELEPHONE_MINIGAME_DESCRIPTION":"Enable the mini-game based on the N64DD.",
+        
+        "ENABLE_RULES_MINIGAME":"Scott The Woz Room Mini-Game",
+        "ENABLE_RULES_MINIGAME_DESCRIPTION":"Enable the Scott The Woz mini-game.",
+
+        "ENABLE_LOSERWHEEL_MINIGAME":"Loser Wheel Mini-Game",
+        "ENABLE_LOSERWHEEL_MINIGAME_DESCRIPTION": "Enable The Loser Wheel, which <b>Will Kill You</b> if you get it, just so you know.",
+
+        "ENABLE_BOMB_GIFT":"Xpress Platinum Gift",
+        "ENABLE_BOMB_GIFT_DESCRIPTION":"Enable the Cathy Mitchell Xpress Platinum, in the Gifts mini-game.",
+
+        "ENABLE_MADNESS_GIFT":"Wii Music Gift",
+        "ENABLE_MADNESS_GIFT_DESCRIPTION":"Enable the Wii Music item, in the Gifts mini-game.",
+
         "START_GAMEPAD": "Start Game from Controller Only",
         "START_GAMEPAD_DESCRIPTION": "Games must be started with controller, not from player devices.",
         

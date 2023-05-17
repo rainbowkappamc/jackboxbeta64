@@ -53,20 +53,20 @@
             "description": "FULL_SCREEN_DESCRIPTION"
         },
         {
-            "title": "TWITCH_REQUIRED",
+            "title": "AUDIENCE_MODE",
             "type": "Toggle",
             "clip": "TDToggleWidget",
             "width": 1,
-            "source": "RequireTwitch",
-            "description": "TWITCH_REQUIRED_DESCRIPTION"
+            "source": "AudienceOn",
+            "description": "AUDIENCE_MODE_DESCRIPTION"
         },
         {
-            "title": "BETA64_CONTENT_FILTER",
+            "title": "EXTENDED_TIMERS",
             "type": "Toggle",
             "clip": "TDToggleWidget",
             "width": 1,
-            "source": "FilterUSCentricContent",
-            "description": "BETA64_CONTENT_FILTER_DESCRIPTION"
+            "source": "ExtendedTimers",
+            "description": "EXTENDED_TIMERS_DESCRIPTION"
         },
         {
             "title": "PASSWORDED_GAME",
@@ -85,6 +85,14 @@
             "description": "SKIP_TUTORIALS_DESCRIPTION"
         },
         {
+            "title": "TWITCH_REQUIRED",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "TWITCH_REQUIRED_DESCRIPTION"
+        },
+        {
             "title": "POSTGAME_SHARING",
             "type": "Toggle",
             "clip": "TDToggleWidget",
@@ -99,6 +107,63 @@
             "width": 1,
             "source": "DisableUserEntryKillingFloors",
             "description": "DISABLE_USER_ENTRY_KILLING_FLOORS_DESCRIPTION"
+        },
+                
+        {
+            "title": "ENABLE_DICTATION_MINIGAME",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DictationEnabled",
+            "description": "ENABLE_DICTATION_MINIGAME_DESCRIPTION"
+        },
+        {
+            "title": "ENABLE_MATH_CHALLENGE_MINIGAME",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "MathChallengeEnabled",
+            "description": "ENABLE_MATH_CHALLENGE_MINIGAME_DESCRIPTION"
+        },
+        {
+            "title": "ENABLE_TELEPHONE_MINIGAME",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "TelephoneEnabled",
+            "description": "ENABLE_TELEPHONE_MINIGAME_DESCRIPTION"
+        },  
+        {
+            "title": "ENABLE_RULES_MINIGAME",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RulesEnabled",
+            "description": "ENABLE_RULES_MINIGAME_DESCRIPTION"
+        },
+        {
+            "title": "ENABLE_LOSERWHEEL_MINIGAME",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "LoserWheelEnabled",
+            "description": "ENABLE_LOSERWHEEL_MINIGAME_DESCRIPTION"
+        },
+        {
+            "title": "ENABLE_BOMB_GIFT",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "BombEnabled",
+            "description": "ENABLE_BOMB_GIFT_DESCRIPTION"
+        },
+        {
+            "title": "ENABLE_MADNESS_GIFT",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "MadnessEnabled",
+            "description": "ENABLE_MADNESS_GIFT_DESCRIPTION"
         },
         {
             "title": "START_GAMEPAD",
@@ -125,6 +190,14 @@
             "options": [1,2,3,4,5,6,7,8],
             "defaultValueIndex":7,
             "description": "MAX_PLAYERS_DESCRIPTION"
+        },
+        {
+            "title": "SUBTITLES",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "Subtitles",
+            "description": "SUBTITLES_DESCRIPTION"
         }
     ]
 }
