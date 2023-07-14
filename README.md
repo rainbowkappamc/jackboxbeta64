@@ -29,4 +29,3 @@ Features :
 - New Question Types : Song/Media Questions, Player Based
 - Custom Site / Device graphics via KappaBox.LIVE! (Custom Chalices work on Jackbox.tv)
 - Scott Boat changes.
-- Trapped CNR Team in Mirror
