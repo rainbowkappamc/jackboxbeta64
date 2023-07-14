@@ -1,0 +1,159 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 7001,
+      "text": "What was Cashspoon's original Twitch username?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cashfork",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cashpoon",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Caspoon",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cashspoon",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 7002,
+      "text": "What is Cashspoon's username color in Twitch chat?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Green",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sea green",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Yellow green",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Spring green",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 7003,
+      "text": "What is Cashspoon's profile picture?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Andrew's Dreams model",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "jjdb210's Dreams model",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cashspoon's Dreams model",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nathaniel Bandy's Dreams model",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 7004,
+      "text": "How long has Cashspoon been subbed to Beta64 on Twitch?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "38 months",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "39 months",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "40 months",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "41 months",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 7005,
+      "text": "Which channel badge does Cashspoon NOT have on Beta64's Twitch?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "cheer 5000",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "2-Year Subscriber",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Former Hype Train Conductor",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "VIP",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

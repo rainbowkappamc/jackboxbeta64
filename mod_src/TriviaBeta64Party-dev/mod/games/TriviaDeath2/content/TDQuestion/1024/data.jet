@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What year did Cheese Nips get discontinued?"},
+        {"t":"A","v":"","n":"Intro","s":""},
+        {"t":"S","v":"[2020] [2021] [2016] [2017]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"Where is Andrew's PO Box?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[1341 Ottis Street, Oklahoma City, Oklahoma] [0123 Rumble Dumble Deez, Midwest City, Oklahoma] [3126 South Blvd, Edmond, Oklahoma] [2980 Dovetail Estates, Gage, Oklahoma]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

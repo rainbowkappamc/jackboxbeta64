@@ -1,0 +1,293 @@
+{
+    "content": [{
+            "id": "00000000",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+            
+            "text": {
+                "main": "Five Years Later"
+            }
+        }, {
+            "id": "00000001",
+            "minSequel": 2,
+            
+            "tag": "DOC",
+            "playerNamePrefix": "Dr.",
+
+            "text": {
+                "main": "6 Months Later",
+                "sub": "(during a medical convention booked at the hotel)"
+            }
+        }, {
+            "id": "00000002",
+            "minSequel": 2,
+            
+            "tag": "NOT",
+            "playerNamePrefix": "Not ",
+
+            "text": {
+                "main": "10 Minutes Waited",
+                "sub": "(Horrible Joke, I know.)"
+            }
+        }, {
+            "id": "00000003",
+            "minSequel": 2,
+            
+            "tag": "AM",
+
+            "text": {
+                "lowerThird": "9:31 p.m."
+            }
+        }, {
+            "id": "00000004",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+            
+            "text": {
+                "main": "Next Stream",
+                "sub": "(Andrew Replays Pepsi Man and The Mod.)"
+            }
+        }, {
+            "id": "00000005",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Tomorrow."
+            }
+        }, {
+            "id": "00000006",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "September 27th.",
+                "sub": "(Andrew turns 64 years old)"
+            }
+        }, {
+            "id": "00000007",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Sometime during Decemberween"
+            }
+        }, {
+            "id": "00000008",
+            "minSequel": 2,
+            
+			"tag": "SIMPLE",
+			
+            "text": {
+                "main": "SpaceWorld 2001",
+                "sub": "Luigi's Mansion is a Rare Nintendo Gam-"
+            }
+        }, {
+            "id": "00000009",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "One Small Fry Later"
+            }
+        }, {
+            "id": "00000010",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "E3 20XX",
+                "sub": "Get it, 20XX?"
+            }
+        }, {
+            "id": "00000011",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "The Day after CNR3 Releases",
+                "sub": "Cash is dead still."
+            }
+        }, {
+            "id": "00000012",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "September 1st, 2023",
+                "sub": "Dreams died."
+            }
+        }, {
+            "id": "00000013",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Another Wipeout Prototype Later",
+                "sub": "Kappa gets killed instead though."
+            }
+        }, {
+            "id": "00000014",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Another Wipeout Prototype Later",
+                "sub": "Dizmond gets killed instead."
+            }
+        }, {
+            "id": "00000015",
+            "minSequel": 2,
+
+            "tag": "MONDAY",
+
+            "text": {
+                "main": "The Following Monday",
+                "sub": "but it feels like a Wednesday"
+            }
+        }, {
+            "id": "00000016",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Before The Events of Beta64",
+                "sub": "don't worry about the pilot"
+            }
+        }, {
+            "id": "00000017",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "2008",
+                "sub": "Wii Music reference lol"
+            }
+        }, {
+            "id": "00000018",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "E3 2064",
+                "sub": "Wii Music 2 is shown. Kappa is overjoyed."
+            }
+        }, {
+            "id": "00000019",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "One Variety Night Stream Later"
+            }
+        }, {
+            "id": "00000020",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "One Trivia Murder Party Later",
+                "sub": "...no, not the Wipeout one."
+            }
+        }, {
+            "id": "00000021",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "One Betacon Later"
+            }
+        }, {
+            "id": "00000022",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "During the real Betacon",
+                "sub": "(This wasn't canon?)"
+            }
+        }, {
+            "id": "00000023",
+            "minSequel": 2,
+
+            "tag": "CHRISTMAS",
+
+            "text": {
+                "main": "Christmas Week, 20XX"
+            }
+        }, {
+            "id": "00000024",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Holloweek, 20XX"
+            }
+        }, {
+            "id": "00000025",
+            "minSequel": 2,
+
+            "tag": "AKA",
+            "playerNamePrefix": "AKA ",
+
+            "text": {
+                "main": "Twenty Years Later",
+                "sub": "(No Signs of The Beta of Wii Music, still)"
+            }
+        },
+
+        {
+            "id": "00000026",
+            "minSequel": 2,
+
+            "tag": "CAPT",
+            "playerNamePrefix": "Scott The ",
+
+            "text": {
+                "main": "Years Later",
+                "sub": "(a Scott Boat convention is in town)"
+            }
+        }, {
+            "id": "00000027",
+            "minSequel": 2,
+            "generationJump":13,
+            
+            "tag": "FUTURE",
+
+            "text": {
+                "main": "Whenever Wii Music gets a Sequel"
+            }
+        }, {
+            "id": "00000028",
+            "minSequel": 2,
+
+            "tag": "ALT",
+			"playerNamePrefix": " ",
+            "nameModifier":"REVERSE",
+            
+            "text": {
+                "main": "E3 2008",
+                "sub": "(in an alternate dimension similar to our own)"
+            }
+        }
+    ]
+}

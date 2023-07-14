@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What happened on 12/11/2022?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[Beta64's Luigi's Mansion Video turned 10] [Beta64's Wii Sports Video turned 10] [Beta64's N64DD Video turned 10] [Beta64's Youtube Channel turned 10]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

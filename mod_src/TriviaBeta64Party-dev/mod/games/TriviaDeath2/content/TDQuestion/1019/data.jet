@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"When did Beta64 release his original Luigi's Mansion video?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[8 Years Ago] [9 Years Ago] [10 Years Ago] [11 Years Ago]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

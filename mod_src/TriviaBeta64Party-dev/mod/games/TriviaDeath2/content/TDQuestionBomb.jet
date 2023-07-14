@@ -1,0 +1,252 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8001,
+      "text": "Cut the wire that's the same color as Andrew's jacket in the Cheese Nips Rescue series.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "White",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Orange",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Purple",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8002,
+      "text": "Cut the wire that's the same color as Timothy's shirt.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Purple",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Blue",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Green",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8003,
+      "text": "Cut the wire that's the same color as Keeby.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Purple",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Yellow",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Pink",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8004,
+      "text": "Cut the wire that's the same color as the Game Boy's screen.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Purple",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Black",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Blue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Green",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8005,
+      "text": "Cut the wire that's the same color as the CNR Team logo.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Orange",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Brown",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Black",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8006,
+      "text": "Cut the wire that's the same color as Geewizdo the Chao.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Purple",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Yellow",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Pink",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8007,
+      "text": "Cut the wire that's the same color as Kirby.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Blue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Gray",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Yellow",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Pink",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 8008,
+      "text": "Cut the wire that's the same color as the result of turning the saturation all the way down in a photo editor.",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Gray",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "White",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Red",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Black",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

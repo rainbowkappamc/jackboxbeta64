@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What temperature is Raw Meat stored at?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[>60 degrees fahrenheit] [55 degrees fahrenheit] [45 degrees fahrenheit] [<40 degrees fahrenheit]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"true","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What Scott The Woz Video did Beta cameo in?"},
+        {"t":"A","v":"","n":"Intro","s":""},
+        {"t":"S","v":"[Borderline Forever - Scott The Woz] [The Trial - Scott The Woz] [Eek! Emulation! - Scott The Woz] [Nintendo DSiWare - Scott The Woz]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

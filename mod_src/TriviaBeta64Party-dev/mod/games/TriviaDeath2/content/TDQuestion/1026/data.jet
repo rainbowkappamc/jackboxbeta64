@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"true","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What was the first Game Cartography stream that I saw?"},
+        {"t":"A","v":"intro","n":"Intro","s":"What was the first Game Cartography ga- Oh. It's THIS QUESTION. I've been fighting with them for MONTHS over whether or not the answer to this question is correct. And they JUST. WON'T. LISTEN TO ME. It's like, I'm not just the voice actor, I'm a person too y'know? In fact, to prove how much of a person I am, I'm going off script and asking you a personal question!"},
+        {"t":"S","v":"[Wii Sports] [Spongebob Battle for Bikini Bottom] [New Super Mario Bros. Wii] [Luigi's Mansion]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

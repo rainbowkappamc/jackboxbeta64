@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What was the first video on Beta64 Live?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[Beta64 Live - WarioWare: Mega Party Game$! w/ Friends (JFF)] [Beta64 Live - A Hat in Time (JFF)] [Beta64 Live - Project Diva F 2nd (JFF)] [Beta64 Live - Luigi's Mansion PAL (JFF)]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

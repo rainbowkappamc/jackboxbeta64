@@ -1,0 +1,34 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "Funny how Scott has his own Monopoly set. lol.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "I like to say before we drown, This was Sponsered by RAID SHADOW LEGENDS!", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "Maybe I shouldn\u2019t have encouraged the performers to \u201cbring down the house.\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA 64.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "SOS B6464 .", 
+            "x": true
+        }
+    ]
+}

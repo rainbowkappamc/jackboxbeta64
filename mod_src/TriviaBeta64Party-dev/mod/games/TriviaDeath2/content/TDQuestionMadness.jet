@@ -1,0 +1,254 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3001,
+      "text": "What infamous game was shown at E3 2008?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wii Sports Resort",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Music",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Play Motion",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Fit",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3002,
+      "text": "What feature was scrapped from the 2007 Build of Wii Music?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Music Creator",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Balance Board Drumkit",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Conducting during Jam Sessions",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Online Jam Ranking",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3003,
+      "text": "What does CNR stand for?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheez Nip Revenge",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cookie Nuke Rescue",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheeze Nips Rescue",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3004,
+      "text": "What PO Box package did Andrew say was his favorite?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A Taco Bell Branded MySims Demo Disc",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Japanese Copy of Luigi's Mansion",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Music Instrument Accessory Kit",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Tomodachi Collection",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3005,
+      "text": "What is Luigi's Mansion?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "A common Sega game everyone seems to know about.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "A rare Nintendo game no one seems to know about.",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "A lost Microsoft game some people seem to know about.",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "An uncommon Sony game that most people know about.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 3006,
+      "text": "What song was I playing?",
+      "pic": false,
+      "us": true,
+      "scott": false,
+      "other": true,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Dr. Luigi - Title Theme",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Mario - Chill",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Dr. Mario - Fever",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Tetris  - Main Theme",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3007,
+      "text": "What Dreams Game did I appear in?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Beta64 goes on Wipeout",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64 goes to Costco",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "10 Minute Wait",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue 2",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 3008,
+      "text": "What fangame did I annouce for Andrew's birthday in 2021 but then hid under the rug?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Dr. Andrew Beta64s Devilish Stream Training",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Andrew Dating Sim (featuring Boxdrew)",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Wii Music: The Beta64 Mod",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Push The Button Mod for Jackbox 6 (featuring Jerma985)",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

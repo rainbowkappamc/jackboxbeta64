@@ -1,0 +1,252 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6001,
+      "text": "Which logic gate could I use to check if a player has completed only one of two objectives?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "OR Gate",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "XOR Gate",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "AND Gate",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "NOT Gate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6002,
+      "text": "What is the variable limit in Dreams?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "100",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "256",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "128",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "There isn't one",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6003,
+      "text": "What is the scene limit in Dreams?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "100",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "50",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "150",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "200",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6004,
+      "text": "Which Dreams gadget would I use to spawn objects?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Spawner",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Instantiater",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Repeater",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Emitter",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6005,
+      "text": "Which Dreams feature would allow an enemy to pursue the player?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Labels",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Tags",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Controller Sensors",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Camera Tracker",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6006,
+      "text": "What is Dreams' rendering engine?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "OpenGL",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Flecks",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "DirectX 11",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Vulkan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6007,
+      "text": "What are those silly creatures that you control in Dreams?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Dreams",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Angels",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sprites",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Imps",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": false,
+      "x": false,
+      "id": 6008,
+      "text": "When will Dreams officially stop getting updates?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "May 2023",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "December 2023",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "September 2023",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Janurary 2023",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

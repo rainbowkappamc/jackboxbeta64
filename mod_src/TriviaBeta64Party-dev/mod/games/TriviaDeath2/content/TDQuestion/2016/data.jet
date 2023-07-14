@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"Which stream was the first appearence of Bandrew?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[[Beta64 Live] Beta64's Cheese Nips Rescue: A Dream by Cashspoon #1] [[Beta64 Live] Wii Sports Modding! #1 - Game Cartography] [[Beta64 Live] Planet Coaster (Cursed Stream!)] [[Beta64 Live] Cooking Mama: Cookstar]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

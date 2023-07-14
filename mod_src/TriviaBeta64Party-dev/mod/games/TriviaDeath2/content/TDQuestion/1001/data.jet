@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"true","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"When was Beta64's twitch created?"},
+        {"t":"A","v":"","n":"Intro","s":""},
+        {"t":"S","v":"[Oct 29, 2014] [Oct 31, 2014] [Oct 11, 2014] [Oct 10, 2014]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

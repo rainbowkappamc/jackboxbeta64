@@ -1,0 +1,252 @@
+{
+  "content": [
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4001,
+      "text": "In the promotional art of Wii Music, who is on the guitar?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Matt",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Nick",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Abby",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Tommy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4002,
+      "text": "The \"Nuke Dizmond\" meme started with which Jackbox game?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Tee K.O.",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Trivia Murder Party",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Job Job",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Push the Button",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4003,
+      "text": "What was the name of SMBFan116's cancelled Cheese Nips Rescue spinoff?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue: Andrew's Bizarre Adventure",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue: Back to the Past",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue: Chat vs. Beta",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Cheese Nips Rescue: Snack Survival",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4004,
+      "text": "Which was NOT one of RainbowKappaTTV's attacks in Beta64 goes on Wipeout?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Strong wind",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Lightning strike",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Flash flood",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Blinding snowstorm",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4005,
+      "text": "Which of these FrankerFace emotes did DizmondTV make?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Anguish",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Bawooga",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "b64Oh",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "roboHeart",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4006,
+      "text": "In 2020, SMBFan116 attempted to request the entirety of what video game OST?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Donkey Kong Country Returns",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Sonic Rush",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Mario Party 2",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Mario 64 DS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4007,
+      "text": "Which of these Scott the Woz characters aren't real?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Wendy's Employee",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Prison Employee",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Target Employee",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Lowe's Employee",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "hasOutro": false,
+      "hasIntro": true,
+      "x": false,
+      "id": 4008,
+      "text": "ScottNoLastName's "About me" on Discord says I am the #1 fan of what?",
+      "pic": false,
+      "us": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Sonic",
+          "correct": true
+        },
+        {
+          "controllerClass": "",
+          "text": "Undertale",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Beta64",
+          "correct": false
+        },
+        {
+          "controllerClass": "",
+          "text": "Super Mario 64 DS",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

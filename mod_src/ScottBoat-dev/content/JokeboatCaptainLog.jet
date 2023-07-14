@@ -1,0 +1,64 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "Hey All Scott Here.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "Beta64 should do a video on Wii Music. You know that one Wii Game...", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "Anyone remember when Beta64 said he was a good christian boy? Good times.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "One time I found Beta64's car and the back had his subscriber count. Why would someone do that?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "Thinking about starting a podcast about Scott The Woz called The Woz Cast.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log6", 
+            "id": 6, 
+            "log": "My YouTube video \u201cLuigi's Mansion Beta Re-Revisted\u201d got another four hits today. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log7", 
+            "id": 7, 
+            "log": "Reminder: Email Nintendo about Wii Music 2.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log8", 
+            "id": 8, 
+            "log": "Accidentally joined a discord call today. I regretted it much.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log9", 
+            "id": 9, 
+            "log": "I hope one day I get to meet Beta64 but not in the weird way.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log10", 
+            "id": 10, 
+            "log": "Have you heard of Twitch Prime?", 
+            "x": false
+        }
+    ]
+}

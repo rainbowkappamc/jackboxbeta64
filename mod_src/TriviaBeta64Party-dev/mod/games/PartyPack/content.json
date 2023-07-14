@@ -1,0 +1,83 @@
+{
+  "games": [
+    {
+      "name":"TriviaDeath2",
+      "mainSwf": "TriviaDeath2.swf",
+      "players": "1-8",
+      "family": false,
+      "audience": true,
+      "familyOptional": false,
+      "description":"INFO_DESCRIPTION_GAME_1",
+      "menu":"MENU_GAME_NAME_1",
+      "value":0,
+      "video":"videos/pickertriviadeath2",
+      "enabled": true
+    },
+    {
+      "name":"RoleModels",
+      "mainSwf": "RoleModels.swf",
+      "players": "3-6",
+      "family": true,
+      "audience": true,
+      "familyOptional": true,
+      "description":"INFO_DESCRIPTION_GAME_2",
+      "menu":"MENU_GAME_NAME_2",
+      "value":1,
+      "video":"videos/pickerrolemodels",
+      "enabled": true,
+      "disableScreenshots":true
+    },
+    {
+      "name":"Jokeboat",
+      "mainSwf": "Jokeboat.swf",
+      "players": "3-8",
+      "family": true,
+      "audience": true,
+      "familyOptional": true,
+      "description":"INFO_DESCRIPTION_GAME_3",
+      "menu":"MENU_GAME_NAME_3",
+      "value":2,
+      "video":"videos/pickerjokeboat",
+      "enabled": true
+    },
+    {
+      "name":"Ridictionary",
+      "mainSwf": "Ridictionary.swf",
+      "players": "3-8",
+      "family": true,
+      "audience": true,
+      "familyOptional": false,
+      "description":"INFO_DESCRIPTION_GAME_4",
+      "menu":"MENU_GAME_NAME_4",
+      "value":3,
+      "video":"videos/pickerridictionary",
+      "enabled": true
+    },
+    {
+      "name":"PushTheButton",
+      "mainSwf": "PushTheButton.swf",
+      "players": "4-10",
+      "family": true,
+      "audience": false,
+      "familyOptional": true,
+      "description":"INFO_DESCRIPTION_GAME_5",
+      "menu":"MENU_GAME_NAME_5",
+      "value":4,
+      "video":"videos/pickerpushthebutton",
+      "enabled": true
+    },
+    {
+      "name":"Disabled",
+      "mainSwf": "",
+      "players": "???",
+      "family": false,
+      "audience": false,
+      "familyOptional": false,
+      "description":"INFO_DESCRIPTION_GAME_DISABLED",
+      "menu":"MENU_GAME_NAME_DISABLED",
+      "value":5,
+      "video":"videos/pickerdisabled",
+      "enabled": false
+    }
+  ]
+}

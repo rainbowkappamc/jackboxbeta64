@@ -1,0 +1,15 @@
+{"fields":
+    [
+        {"t":"B","v":"false","n":"HasIntro"},
+        {"t":"B","v":"false","n":"HasPic"},
+        {"t":"B","v":"false","n":"HasVamp"},
+        {"t":"B","v":"false","n":"HasChoices"},
+        {"t":"B","v":"false","n":"HasOutro"},
+        {"t":"A","v":"custom","n":"Q","s":"What is the most popular Twitch Clip on the Twitch Clips YouTube channel?"},
+        {"t":"A","n":"Intro"},
+        {"t":"S","v":"[Beta64 Live - ya know... :flushed:] [Beta64 Live - my new alarm] [Beta64 - princess toadstool, WHAT?!] [Beta64 Live - Beta...]","n":"Choices"},
+        {"t":"A","n":"Vamp","s":""},
+        {"t":"A","v":"","n":"Outro","s":""},
+        {"t":"G","n":"Pic"}
+    ]
+}

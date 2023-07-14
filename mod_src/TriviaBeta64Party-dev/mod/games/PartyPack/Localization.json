@@ -1,0 +1,75 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "We’ve just found the internet.",
+        "INTERNET_DISCONNECTED": "We’re sorry, we can’t seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We’re sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        "SOCKET_DISCONNECTED": "We’re sorry, we’ve lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We’re sorry, we can’t seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We’re sorry, the server has disconnected you. Please try again.",
+        "LOST_LICENSE": "We’re sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We’re sorry, we couldn’t validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We’re sorry, we couldn’t validate your Twitch license.",
+        "LOST_DLC": "We’re sorry, the license for your DLC could not be found. Returning you to the menu...",
+        "CLOSE": "Close",
+        "QUIT": "Quit",
+        "BACK": "Back",
+        "MENU_GAME_NAME_1": "TRIVIA BETA64 PARTY",
+        "MENU_GAME_NAME_2": "ROLE MODELS",
+        "MENU_GAME_NAME_3": "SCOTT BOAT",
+        "MENU_GAME_NAME_4": "DICTIONARIUM",
+        "MENU_GAME_NAME_5": "PUSH THE BUTTON",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "SETTINGS",
+        "MENU_HOW_TO": "HOW-TO",
+        "BADGE_TITLE_PLAYERS": "PLAYERS",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILY FRIENDLY",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "MODDED CONTENT",
+        "BADGE_TITLE_AUDIENCE": "AUDIENCE",
+        "BADGE_SUB_PLAYERS": "USE PHONES/TABLETS",
+        "BADGE_SUB_FAMILY_MODE": "OPTIONAL",
+        "BADGE_SUB_NOT_FAMILY_MODE": "USE KAPPABOX.LIVE!",
+        "BADGE_SUB_AUDIENCE": "NON-PLAYERS CAN JOIN",
+        "INFO_DESCRIPTION_GAME_1": "V5 | Welcome to Trivia Beta Party! In this modded version of Trivia Murder Party 2 , you'll anwser trivia around Beta64, JJDB210, and Much More in order for a chance to survive the hands of a new but familiar host.",
+        "INFO_DESCRIPTION_GAME_2": "UNMODDED | This game is not modded and is apart of the base Jackbox Party Pack 6 Experience.",
+        "INFO_DESCRIPTION_GAME_3": "V1 | Hey All, Scott Here! In this modded version of Joke Boat , you join a cast of characters from communities such as Scott The Woz, Beta64, and JJDB210 as you do comedy as chaos pursues on The Scott Boat!",
+        "INFO_DESCRIPTION_GAME_4": "UNMODDED | This game is not modded and is apart of the base Jackbox Party Pack 6 Experience.",
+        "INFO_DESCRIPTION_GAME_5": "UNMODDED | This game is not modded and is apart of the base Jackbox Party Pack 6 Experience.",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "SETTINGS",
+        "SETTINGS_FULL_SCREEN": "Full-Screen Mode",
+        "SETTINGS_VOLUME": "Volume Control",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "ON will make the game full-screen.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Make the game LOUD or QUIET.",
+        "SETTINGS_TOGGLE_ON": "ON",
+        "SETTINGS_TOGGLE_OFF": "OFF",
+        "HELP_TITLE": "INSTRUCTIONS",
+        "HELP_LINE_1": "Select and start a game using a controller.",
+        "HELP_LINE_2": "Once you’ve reached the game lobby, get out your phone, tablet, or laptop.",
+        "HELP_LINE_3": "Go to jackbox.tv on your device.",
+        "HELP_LINE_4": "Enter the 4-letter room code shown on the TV screen, and your player name.",
+        "HELP_LINE_5": "The first player to join the game lobby (the VIP) can start the game from their device once everyone is ready.",
+        "HELP_LINE_6": "Enjoy with your friends, family, or complete strangers.",
+        "HELP_URL": "help.jackboxgames.com"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}

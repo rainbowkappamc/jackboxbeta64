@@ -1,0 +1,64 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "Beta64 Plush"
+        }, 
+        {
+            "id": 2, 
+            "topic": "Scott The Woz Monopoly"
+        }, 
+        {
+            "id": 3, 
+            "topic": "JJDB210's Computer"
+        }, 
+        {
+            "id": 4, 
+            "topic": "JJDB210 Merch"
+        }, 
+        {
+            "id": 5, 
+            "topic": "Beta64 Merch"
+        }, 
+        {
+            "id": 6, 
+            "topic": "Beta64's Chair"
+        }, 
+        {
+            "id": 7, 
+            "topic": "Oculus Quest"
+        }, 
+        {
+            "id": 8, 
+            "topic": "Xbox Series X"
+        }, 
+        {
+            "id": 9, 
+            "topic": "Xbox Series S"
+        }, 
+        {
+            "id": 10, 
+            "topic": "Playstation 5"
+        }, 
+        {
+            "id": 11, 
+            "topic": "Nintendo Switch"
+        }, 
+        {
+            "id": 12, 
+            "topic": "Nintendo 64"
+        }, 
+        {
+            "id": 13, 
+            "topic": "Nintendo 64 Disk Drive"
+        }, 
+        {
+            "id": 14, 
+            "topic": "Phillips CD-I"
+        }, 
+        {
+            "id": 15, 
+            "topic": "Nintendo DS"
+        }
+    ]
+}
