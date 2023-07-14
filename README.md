@@ -17,17 +17,16 @@ Features :
 - Custom Cups in Chalices
 - new gifts in "Gifts Minigame"
 - New Credits Changes (Overhauled)
-- New Music
+- New Soundtrack
 - New Killing Room Graphics
 - New Logo for TMP2 Opening
 - New Intros for Pack and TMP2
-- New Graphics for Party Pack Menu
+- New Party Pack Menu Changes
 - New Final Round Graphics
 - New Phone Minigame Graphics
 - New Dictation Prompts
 - New Mirror Prompts
 - New Question Types : Song/Media Questions, Player Based
-- New Jokes,Logs, and Etc. for Joke Boat Mod
 - Custom Site / Device graphics via KappaBox.LIVE! (Custom Chalices work on Jackbox.tv)
 - Scott Boat changes.
-- Trapped CNR Team in Mirror.
+- Trapped CNR Team in Mirror
