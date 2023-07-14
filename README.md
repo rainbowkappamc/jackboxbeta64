@@ -26,7 +26,7 @@ Features :
 - New Phone Minigame Graphics
 - New Dictation Prompts
 - New Mirror Prompts
-- New Question Types : Video/Audio Based, Player Based
+- New Question Types : Song/Media Questions, Player Based
 - New Jokes,Logs, and Etc. for Joke Boat Mod
 - Custom Site / Device graphics via KappaBox.LIVE! (Custom Chalices work on Jackbox.tv)
 - Scott Boat changes.
