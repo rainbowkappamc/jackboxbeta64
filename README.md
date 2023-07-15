@@ -13,7 +13,7 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
  - New Pack Preview Videos for Modded Games -- Trivia Beta64 Party and Scott Boat.
  - New PartyPack Opening
 
-### Trivia Beta64 Party 
+### Trivia Beta (64) Party 
  - Subtitle Changes
  - New Passwords
  - New Dictation Content
