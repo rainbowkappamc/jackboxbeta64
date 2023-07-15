@@ -32,7 +32,7 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
  - New Modded Video Deaths (Trivia Murder Party 2 Has [Special Video-Sequenced Deaths](https://www.youtube.com/watch?v=7MfD7ezGLLQ&pp=ygUgdmlkZW8gZGVhdGhzIHRyaXZpYSBtdXJkZXIgcGFydHk%3D).)
  - Media Questions
 
-### Scott Boat Changes
+### Scott Boat 
  - Dizmond Mode: All Timers are 10 Second Timers. (Togglable in Settings)
  - "Unique Art Style"
  - Scott The Woz... on a Boat.
