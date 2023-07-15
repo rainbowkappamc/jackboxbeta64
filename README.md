@@ -1,7 +1,7 @@
 # The Jackbox Beta64 Mod for The Jackbox Party Pack 6
 A Jackbox 6 Mod that overhauls Trivia Murder Party (and Joke Boat) around Beta64's Community.
 
-BETA64 MOD for [Beta64 ](https://www.twitch.tv/beta64) , [JJDB210 ](https://www.twitch.tv/jjdb210), and [Scott The Woz](https://www.youtube.com/scottthewoz).
+THE BETA64 JACKBOX MOD | Contains Content Based around [Beta64 ](https://www.twitch.tv/beta64) , [JJDB210 ](https://www.twitch.tv/jjdb210), and [Scott The Woz](https://www.youtube.com/scottthewoz).
 
 Created By RainbowKappa With Help from [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA), [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png), [Drago2143 ](https://www.youtube.com/channel/UC3Hn_HgWwfCX5nsUNtC8ltg), and Many More!
 
