@@ -1,31 +1,36 @@
 # The Jackbox Beta64 Mod for The Jackbox Party Pack 6
 A Jackbox 6 Mod that overhauls Trivia Murder Party (and Joke Boat) around Beta64's Community.
 
-BETA64 MOD for https://www.twitch.tv/beta64 , JJDB210 - https://www.twitch.tv/jjdb210 , and ~~Scott The Woz~~.
+BETA64 MOD for [Beta64 ](https://www.twitch.tv/beta64) , [JJDB210 ](https://www.twitch.tv/jjdb210), and [Scott The Woz](https://www.youtube.com/scottthewoz).
 
-Created By RainbowKappa With Help from Cashspoon, SuperMarioBrosFan116, Drago2143, and Many More!
+Created By RainbowKappa With Help from [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA), [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png), [Drago2143 ](https://www.youtube.com/channel/UC3Hn_HgWwfCX5nsUNtC8ltg), and Many More!
 
-Features :
+### FEATURES (V5)
 
-- Mod filters for content (filters Beta64,JJDB210, and Scott The Woz-centric questions)
-- Overhauled Voice Cast.
-- New Lobby for Mod.
-- New Opening and Theming for Mod!
-- The "Scott The Woz" Room.
-- New Trivia (346 Questions, 55 Final Round, 14 Mind Meld, 16 Quiplash, 40+ "Special Scenario" Questions)
-- Cheese Nips Box in Tattoos Minigame
-- Custom Cups in Chalices
-- new gifts in "Gifts Minigame"
-- New Credits Changes (Overhauled)
-- New Soundtrack
-- New Killing Room Graphics
-- New Logo for TMP2 Opening
-- New Intros for Pack and TMP2
-- New Party Pack Menu Changes
-- New Final Round Graphics
-- New Phone Minigame Graphics
-- New Dictation Prompts
-- New Mirror Prompts
-- New Question Types : Song/Media Questions, Player Based
-- Custom Site / Device graphics via KappaBox.LIVE! (Custom Chalices work on Jackbox.tv)
-- Scott Boat changes.
+### PartyPack / General 
+ - Redone Party Pack's Backgrounds for Modded Games  -- Trivia Beta64 Party and Scott Boat.
+ - New Pause Menus for PartyPack and Modded Games -- Trivia Beta64 Party and Scott Boat.
+ - New Pack Preview Videos for Modded Games -- Trivia Beta64 Party and Scott Boat.
+ - New PartyPack Opening
+
+### Trivia Beta64 Party 
+ - Subtitle Changes
+ - New Passwords 
+ - Updated Minigame Instructions
+ - Updated Mod Settings
+ - Updated Sequel Scenario Text
+ - Updated Trivia Beta Party Credits
+ - Updated Trivia Beta Party Soundtrack (Credits to [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png)(Main OST), [RainbowKappa ](https://cdn.discordapp.com/attachments/1112941584145731606/1129786477946093678/Screenshot_2023-07-15_094754.png)(Arrangements for Question Themes) and [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA)(Credits Theme / Cover))
+ - Mod Files Optimizations
+ - New Trivia Beta Party Opening 
+ - New Trivia Beta Party Lobby Screen
+ - New Trivia Beta Party Outro Videos
+ - Trivia Beta Party Revoiced by Beta64 Community Members.
+ - New Modded Video Deaths (Trivia Murder Party 2 Has [Special Video-Sequenced Deaths](https://www.youtube.com/watch?v=7MfD7ezGLLQ&pp=ygUgdmlkZW8gZGVhdGhzIHRyaXZpYSBtdXJkZXIgcGFydHk%3D).)
+ - Media Questions
+
+### Scott Boat Changes
+ - Dizmond Mode: All Timers are 10 Second Timers. (Togglable in Settings)
+ - "Unique Art Style"
+ - Scott The Woz... on a Boat.
+ - Updated audio work and soundtrack by [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png)and [Cashspoon](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA).
