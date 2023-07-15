@@ -8,12 +8,12 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
 ### FEATURES (V5)
 
 ### PartyPack / General 
- - Redone Party Pack's Backgrounds for Modded Games  -- Trivia Beta64 Party and Scott Boat.
- - New Pause Menus for PartyPack and Modded Games -- Trivia Beta64 Party and Scott Boat.
+ - Redone Party Pack's Backgrounds for Modded Games  -- Trivia Beta Party and Scott Boat.
+ - New Pause Menus for PartyPack and Modded Games -- Trivia Beta Party and Scott Boat.
  - New Pack Preview Videos for Modded Games -- Trivia Beta64 Party and Scott Boat.
  - New PartyPack Opening
 
-### Trivia Beta (64) Party 
+### Trivia Beta Party 
  - Subtitle Changes
  - New Passwords
  - New Dictation Content
