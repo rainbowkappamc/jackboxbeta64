@@ -15,7 +15,10 @@ Created By RainbowKappa With Help from [Cashspoon ](https://www.youtube.com/chan
 
 ### Trivia Beta64 Party 
  - Subtitle Changes
- - New Passwords 
+ - New Passwords
+ - New Dictation Content
+ - New Quiplash Content
+ - New Mirror Content
  - Updated Minigame Instructions
  - Updated Mod Settings
  - Updated Sequel Scenario Text
