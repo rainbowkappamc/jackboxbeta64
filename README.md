@@ -3,7 +3,7 @@ A Jackbox 6 Mod that overhauls Trivia Murder Party (and Joke Boat) around Beta64
 
 THE BETA64 JACKBOX MOD | Contains Content Based around [Beta64 ](https://www.twitch.tv/beta64) , [JJDB210 ](https://www.twitch.tv/jjdb210), and [Scott The Woz](https://www.youtube.com/scottthewoz).
 
-Created By [RainbowKappa](https://www.youtube.com/rainbowkappa) With Help from [Cashspoon](https://www.twitch.tv/Cashspoon), [SuperMarioBrosFan116](https://www.twitch.tv/supermariobrosfan116), [Drago2143](https://drago2143.neocities.org/) and many [others](https://github.com/rainbowkappamc/plainfolio-kappabox?tab=readme-ov-file#teams).
+Created By [RainbowKappa](https://www.twitch.tv/rainbowkappattv) With Help from [Cashspoon](https://www.twitch.tv/Cashspoon), [SuperMarioBrosFan116](https://www.twitch.tv/supermariobrosfan116), [Drago2143](https://drago2143.neocities.org/) and many [others](https://github.com/rainbowkappamc/plainfolio-kappabox?tab=readme-ov-file#teams).
 
 ### FEATURES (V5)
 
