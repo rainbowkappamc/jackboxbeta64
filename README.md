@@ -3,7 +3,7 @@ A Jackbox 6 Mod that overhauls Trivia Murder Party (and Joke Boat) around Beta64
 
 THE BETA64 JACKBOX MOD | Contains Content Based around [Beta64 ](https://www.twitch.tv/beta64) , [JJDB210 ](https://www.twitch.tv/jjdb210), and [Scott The Woz](https://www.youtube.com/scottthewoz).
 
-Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA), [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png), [Drago2143 ](https://www.youtube.com/channel/UC3Hn_HgWwfCX5nsUNtC8ltg), and Many More!
+Created By [RainbowKappa](https://www.youtube.com/rainbowkappa) With Help from [Cashspoon](https://www.twitch.tv/Cashspoon), [SuperMarioBrosFan116](https://www.twitch.tv/supermariobrosfan116), [Drago2143](https://drago2143.neocities.org/) and many [others](https://github.com/rainbowkappamc/plainfolio-kappabox?tab=readme-ov-file#teams).
 
 ### FEATURES (V5)
 
@@ -23,7 +23,7 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
  - Updated Mod Settings
  - Updated Sequel Scenario Text
  - Updated Trivia Beta Party Credits
- - Updated Trivia Beta Party Soundtrack (Credits to [SuperMarioBrosFan116 ](https://www.twitch.tv/supermariobrosfan116)(Main OST), [RainbowKappa](https://www.twitch.tv/rainbowkappattv) (Arrangements for Question Themes) and [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA)(Credits Theme / Cover))
+ - Updated Trivia Beta Party Soundtrack (Credits to [SuperMarioBrosFan116 ](https://www.twitch.tv/supermariobrosfan116)(Main OST), [RainbowKappa](https://www.twitch.tv/rainbowkappattv) (Arrangements for Question Themes) and [Cashspoon](https://www.twitch.tv/Cashspoon) (Credits Theme / Cover))
  - Mod Files Optimizations
  - New Trivia Beta Party Opening 
  - New Trivia Beta Party Lobby Screen
@@ -35,4 +35,4 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
 ### [Scott Boat](http://scottboat.kappabox.live/)
  - Unique Art Style
  - Scott The Woz... on a Boat.
- - Updated audio work and soundtrack by [SuperMarioBrosFan116](https://www.twitch.tv/supermariobrosfan116) and [Cashspoon](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA).
+ - Updated audio work and soundtrack by [SuperMarioBrosFan116](https://www.twitch.tv/supermariobrosfan116) and [Cashspoon](https://www.twitch.tv/Cashspoon).
