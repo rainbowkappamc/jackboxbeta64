@@ -23,7 +23,7 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
  - Updated Mod Settings
  - Updated Sequel Scenario Text
  - Updated Trivia Beta Party Credits
- - Updated Trivia Beta Party Soundtrack (Credits to [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png)(Main OST), [RainbowKappa ](https://cdn.discordapp.com/attachments/1112941584145731606/1129786477946093678/Screenshot_2023-07-15_094754.png)(Arrangements for Question Themes) and [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA)(Credits Theme / Cover))
+ - Updated Trivia Beta Party Soundtrack (Credits to [SuperMarioBrosFan116 ](https://www.twitch.tv/supermariobrosfan116)(Main OST), [RainbowKappa](https://www.twitch.tv/rainbowkappattv) (Arrangements for Question Themes) and [Cashspoon ](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA)(Credits Theme / Cover))
  - Mod Files Optimizations
  - New Trivia Beta Party Opening 
  - New Trivia Beta Party Lobby Screen
@@ -33,7 +33,6 @@ Created By [RainbowKappa ](https://www.youtube.com/rainbowkappa) With Help from 
  - Media Questions
 
 ### [Scott Boat](http://scottboat.kappabox.live/)
- - Dizmond Mode: All Timers are 10 Second Timers. (Togglable in Settings)
- - "Unique Art Style"
+ - Unique Art Style
  - Scott The Woz... on a Boat.
- - Updated audio work and soundtrack by [SuperMarioBrosFan116 ](https://cdn.discordapp.com/attachments/1017209328517787688/1128425732285136967/image.png)and [Cashspoon](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA).
+ - Updated audio work and soundtrack by [SuperMarioBrosFan116](https://www.twitch.tv/supermariobrosfan116) and [Cashspoon](https://www.youtube.com/channel/UCmEIenKMXfXL9CLx43zDwcA).
